@@ -37,37 +37,40 @@
 
 </div>
 
-<p align="center">
-Soy <b>Ingeniero de Sistemas e Informática</b> enfocado en desarrollo <b>Full Stack</b>. Construyo soluciones web desde la lógica de negocio y los datos hasta una interfaz clara, responsive y mantenible.
-</p>
+<div align="center">
+
+Soy <b>Ingeniero de Sistemas e Informática</b> enfocado en desarrollo <b>Full Stack</b>.<br>
+Construyo soluciones web desde la lógica de negocio y los datos hasta una interfaz clara, responsive y mantenible.
+
+</div>
 
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
-
-### 🧩 Full Stack
+<div align="center">
+<h3>🧩 Full Stack</h3>
 Laravel · React · Next.js · TypeScript
-
+</div>
 </td>
 <td width="50%" align="center" valign="middle">
-
-### 🧠 Producto
+<div align="center">
+<h3>🧠 Producto</h3>
 Ventas · Pedidos · Inventario · Asistencia
-
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="middle">
-
-### 🗄️ Datos
+<div align="center">
+<h3>🗄️ Datos</h3>
 Modelado · Migraciones · Consultas · Reportes
-
+</div>
 </td>
 <td width="50%" align="center" valign="middle">
-
-### 🎨 Experiencia
+<div align="center">
+<h3>🎨 Experiencia</h3>
 Responsive · UX · Componentes reutilizables
-
+</div>
 </td>
 </tr>
 </table>
@@ -97,8 +100,8 @@ Responsive · UX · Componentes reutilizables
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-
-### 🔴 Backend
+<div align="center">
+<h3>🔴 Backend</h3>
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -107,11 +110,11 @@ Responsive · UX · Componentes reutilizables
   <img src="https://img.shields.io/badge/Filament-F59E0B?style=flat-square" />
 </p>
 <sub>Reglas de negocio · autenticación · servicios · validaciones</sub>
-
+</div>
 </td>
 <td width="50%" align="center" valign="top">
-
-### 🔵 Frontend
+<div align="center">
+<h3>🔵 Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -120,13 +123,13 @@ Responsive · UX · Componentes reutilizables
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
 </p>
 <sub>Interfaces modernas · estados claros · componentes reutilizables</sub>
-
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-
-### 🟢 Datos
+<div align="center">
+<h3>🟢 Datos</h3>
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
@@ -134,11 +137,11 @@ Responsive · UX · Componentes reutilizables
   <img src="https://img.shields.io/badge/Eloquent-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 </p>
 <sub>Modelado · integridad · migraciones · consultas · reportes</sub>
-
+</div>
 </td>
 <td width="50%" align="center" valign="top">
-
-### 🟣 Herramientas
+<div align="center">
+<h3>🟣 Herramientas</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -147,7 +150,7 @@ Responsive · UX · Componentes reutilizables
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 <sub>Versionado · entornos · pruebas de API · builds modernos</sub>
-
+</div>
 </td>
 </tr>
 </table>
@@ -166,34 +169,34 @@ Responsive · UX · Componentes reutilizables
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
-
-### 📱 Responsive
+<div align="center">
+<h3>📱 Responsive</h3>
 <img src="https://img.shields.io/badge/Layout-Adaptable-4F46E5?style=flat-square" /><br>
 <sub>Móvil · tablet · escritorio · menos scroll innecesario</sub>
-
+</div>
 </td>
 <td width="50%" align="center" valign="middle">
-
-### 🧩 UX
+<div align="center">
+<h3>🧩 UX</h3>
 <img src="https://img.shields.io/badge/Flujos-Claros-334155?style=flat-square" /><br>
 <sub>Menos pasos · estados comprensibles · feedback visual</sub>
-
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="middle">
-
-### ♿ Accesibilidad
+<div align="center">
+<h3>♿ Accesibilidad</h3>
 <img src="https://img.shields.io/badge/Contenido-Legible-475569?style=flat-square" /><br>
 <sub>Contraste · jerarquía · navegación comprensible</sub>
-
+</div>
 </td>
 <td width="50%" align="center" valign="middle">
-
-### ⚡ Rendimiento
+<div align="center">
+<h3>⚡ Rendimiento</h3>
 <img src="https://img.shields.io/badge/UI-Eficiente-64748B?style=flat-square" /><br>
 <sub>Carga eficiente · reutilización · crecimiento sostenible</sub>
-
+</div>
 </td>
 </tr>
 </table>
@@ -221,8 +224,8 @@ Responsive · UX · Componentes reutilizables
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-
-### 🏫 Sistema de Asistencia Escolar
+<div align="center">
+<h3>🏫 Sistema de Asistencia Escolar</h3>
 <sub><b>EDUCACIÓN · SaaS MULTIINSTITUCIÓN</b></sub>
 
 <p>
@@ -238,11 +241,11 @@ Asistencia, matrículas, roles, reportes y portal institucional.
   <img src="https://img.shields.io/badge/●-Activo-0F766E?style=flat-square" />
   <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
 </p>
-
+</div>
 </td>
 <td width="50%" align="center" valign="top">
-
-### 📱 POS Celulares
+<div align="center">
+<h3>📱 POS Celulares</h3>
 <sub><b>COMERCIO · PUNTO DE VENTA</b></sub>
 
 <p>
@@ -258,13 +261,13 @@ Ventas, caja, inventario, compras, clientes y control por IMEI.
   <img src="https://img.shields.io/badge/●-Activo-0F766E?style=flat-square" />
   <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
 </p>
-
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-
-### 🚚 MARKA
+<div align="center">
+<h3>🚚 MARKA</h3>
 <sub><b>DELIVERY · PLATAFORMA MULTIROL</b></sub>
 
 <p>
@@ -280,11 +283,11 @@ Pedidos, cobertura, stock y flujo entre cliente, negocio y repartidor.
   <img src="https://img.shields.io/badge/●-En%20evolución-475569?style=flat-square" />
   <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
 </p>
-
+</div>
 </td>
 <td width="50%" align="center" valign="top">
-
-### 🍣 D Mare Sushi
+<div align="center">
+<h3>🍣 D Mare Sushi</h3>
 <sub><b>RESTAURANTE · EXPERIENCIA DIGITAL</b></sub>
 
 <p>
@@ -300,7 +303,7 @@ Catálogo, categorías, promociones y carrito responsive.
   <img src="https://img.shields.io/badge/●-En%20evolución-475569?style=flat-square" />
   <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
 </p>
-
+</div>
 </td>
 </tr>
 </table>
@@ -308,8 +311,8 @@ Catálogo, categorías, promociones y carrito responsive.
 <table>
 <tr>
 <td width="100%" align="center" valign="middle">
-
-### 🌐 Leon Gutierrez Studio
+<div align="center">
+<h3>🌐 Leon Gutierrez Studio</h3>
 <sub><b>PORTAFOLIO · PRODUCTO PERSONAL</b></sub>
 
 <p>
@@ -326,7 +329,7 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
   <img src="https://img.shields.io/badge/●-En%20preparación-64748B?style=flat-square" />
   <img src="https://img.shields.io/badge/Código-Privado%20temporalmente-64748B?style=flat-square" />
 </p>
-
+</div>
 </td>
 </tr>
 </table>
@@ -353,14 +356,38 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 
 <table>
 <tr>
-<td width="33%" align="center">🔎 <b>Entender</b><br><sub>problema, usuarios y reglas</sub></td>
-<td width="33%" align="center">🏗️ <b>Diseñar</b><br><sub>datos, API y permisos</sub></td>
-<td width="33%" align="center">💻 <b>Construir</b><br><sub>flujos completos y reutilizables</sub></td>
+<td width="33%" align="center">
+<div align="center">
+🔎 <b>Entender</b><br><sub>problema, usuarios y reglas</sub>
+</div>
+</td>
+<td width="33%" align="center">
+<div align="center">
+🏗️ <b>Diseñar</b><br><sub>datos, API y permisos</sub>
+</div>
+</td>
+<td width="33%" align="center">
+<div align="center">
+💻 <b>Construir</b><br><sub>flujos completos y reutilizables</sub>
+</div>
+</td>
 </tr>
 <tr>
-<td width="33%" align="center">🧪 <b>Validar</b><br><sub>pruebas, errores y seguridad</sub></td>
-<td width="33%" align="center">🚀 <b>Entregar</b><br><sub>build y configuración</sub></td>
-<td width="33%" align="center">📈 <b>Evolucionar</b><br><sub>medir, corregir y mejorar</sub></td>
+<td width="33%" align="center">
+<div align="center">
+🧪 <b>Validar</b><br><sub>pruebas, errores y seguridad</sub>
+</div>
+</td>
+<td width="33%" align="center">
+<div align="center">
+🚀 <b>Entregar</b><br><sub>build y configuración</sub>
+</div>
+</td>
+<td width="33%" align="center">
+<div align="center">
+📈 <b>Evolucionar</b><br><sub>medir, corregir y mejorar</sub>
+</div>
+</td>
 </tr>
 </table>
 
@@ -380,30 +407,30 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 <table>
 <tr>
 <td width="50%" align="center">
-
-### 🧪 Pruebas
+<div align="center">
+<h3>🧪 Pruebas</h3>
 <sub>Flujos críticos · regresiones · casos límite</sub>
-
+</div>
 </td>
 <td width="50%" align="center">
-
-### 🔐 Seguridad
+<div align="center">
+<h3>🔐 Seguridad</h3>
 <sub>Autenticación · permisos · validación</sub>
-
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-
-### 🗄️ Datos
+<div align="center">
+<h3>🗄️ Datos</h3>
 <sub>Integridad · migraciones · transacciones</sub>
-
+</div>
 </td>
 <td width="50%" align="center">
-
-### 🚀 Entrega
+<div align="center">
+<h3>🚀 Entrega</h3>
 <sub>Entornos · secretos · build · despliegue</sub>
-
+</div>
 </td>
 </tr>
 </table>
@@ -437,22 +464,28 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 <table>
 <tr>
 <td width="33%" align="center" valign="middle">
+<div align="center">
 <h3>🎯 Roles</h3>
 Full Stack Developer<br>
 Desarrollo Web<br>
 Desarrollo de APIs
+</div>
 </td>
 <td width="33%" align="center" valign="middle">
+<div align="center">
 <h3>🏢 Productos</h3>
 Ventas · Inventario<br>
 Educación · Delivery<br>
 Procesos internos
+</div>
 </td>
 <td width="33%" align="center" valign="middle">
+<div align="center">
 <h3>🌎 Modalidad</h3>
 Remoto · Híbrido<br>
 Perú / LatAm<br>
 Proyectos freelance
+</div>
 </td>
 </tr>
 </table>
