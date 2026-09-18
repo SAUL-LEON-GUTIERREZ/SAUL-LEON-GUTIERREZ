@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081C2F"/>
+      <stop offset="1" stop-color="#0B3558"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#006BB6"/>
+      <stop offset="1" stop-color="#1FB6FF"/>
+    </linearGradient>
+  </defs>
+  
+<path d="M110 82H890" stroke="#1FB6FF" stroke-opacity=".28" stroke-width="3" stroke-linecap="round"/>
+
+<circle cx="110" cy="82" r="28" fill="#081C2F" stroke="#1FB6FF" stroke-opacity=".45"/>
+<text x="110" y="78" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" fill="#1FB6FF">01</text>
+<text x="110" y="94" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Entender</text>
+<circle cx="266" cy="82" r="28" fill="#0A4F82" stroke="#1FB6FF" stroke-opacity=".45"/>
+<text x="266" y="78" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" fill="#1FB6FF">02</text>
+<text x="266" y="94" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Modelar</text>
+<circle cx="422" cy="82" r="28" fill="#081C2F" stroke="#1FB6FF" stroke-opacity=".45"/>
+<text x="422" y="78" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" fill="#1FB6FF">03</text>
+<text x="422" y="94" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Diseñar</text>
+<circle cx="578" cy="82" r="28" fill="#0A4F82" stroke="#1FB6FF" stroke-opacity=".45"/>
+<text x="578" y="78" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" fill="#1FB6FF">04</text>
+<text x="578" y="94" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Construir</text>
+<circle cx="734" cy="82" r="28" fill="#081C2F" stroke="#1FB6FF" stroke-opacity=".45"/>
+<text x="734" y="78" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" fill="#1FB6FF">05</text>
+<text x="734" y="94" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Validar</text>
+<circle cx="890" cy="82" r="28" fill="#0A4F82" stroke="#1FB6FF" stroke-opacity=".45"/>
+<text x="890" y="78" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" fill="#1FB6FF">06</text>
+<text x="890" y="94" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Evolucionar</text>
+<text x="500" y="145" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#D7ECFA">Problema → datos y reglas → arquitectura → implementación → validación → mejora continua</text>
+<text x="500" y="168" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="500" fill="#D7ECFA">Principio: construir la solución más simple que resuelva bien el problema actual.</text>
+
+</svg>
