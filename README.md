@@ -44,7 +44,7 @@ Construyo soluciones web desde la lógica de negocio y los datos hasta una inter
 
 </div>
 
-<table>
+<table width="100%" align="center">
 <tr>
 <td width="50%" align="center" valign="middle">
 <div align="center">
@@ -97,7 +97,7 @@ Responsive · UX · Componentes reutilizables
 
 </div>
 
-<table>
+<table width="100%" align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 <div align="center">
@@ -166,7 +166,7 @@ Responsive · UX · Componentes reutilizables
 
 </div>
 
-<table>
+<table width="100%" align="center">
 <tr>
 <td width="50%" align="center" valign="middle">
 <div align="center">
@@ -221,7 +221,7 @@ Responsive · UX · Componentes reutilizables
 
 </div>
 
-<table>
+<table width="100%" align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 <div align="center">
@@ -308,7 +308,7 @@ Catálogo, categorías, promociones y carrito responsive.
 </tr>
 </table>
 
-<table>
+<table width="100%" align="center">
 <tr>
 <td width="100%" align="center" valign="middle">
 <div align="center">
@@ -354,36 +354,36 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 
 </div>
 
-<table>
+<table width="100%" align="center">
 <tr>
-<td width="33%" align="center">
+<td width="33.33%" align="center" valign="middle">
 <div align="center">
 🔎 <b>Entender</b><br><sub>problema, usuarios y reglas</sub>
 </div>
 </td>
-<td width="33%" align="center">
+<td width="33.33%" align="center" valign="middle">
 <div align="center">
 🏗️ <b>Diseñar</b><br><sub>datos, API y permisos</sub>
 </div>
 </td>
-<td width="33%" align="center">
+<td width="33.33%" align="center" valign="middle">
 <div align="center">
 💻 <b>Construir</b><br><sub>flujos completos y reutilizables</sub>
 </div>
 </td>
 </tr>
 <tr>
-<td width="33%" align="center">
+<td width="33.33%" align="center" valign="middle">
 <div align="center">
 🧪 <b>Validar</b><br><sub>pruebas, errores y seguridad</sub>
 </div>
 </td>
-<td width="33%" align="center">
+<td width="33.33%" align="center" valign="middle">
 <div align="center">
 🚀 <b>Entregar</b><br><sub>build y configuración</sub>
 </div>
 </td>
-<td width="33%" align="center">
+<td width="33.33%" align="center" valign="middle">
 <div align="center">
 📈 <b>Evolucionar</b><br><sub>medir, corregir y mejorar</sub>
 </div>
@@ -404,15 +404,15 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 
 </div>
 
-<table>
+<table width="100%" align="center">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 <div align="center">
 <h3>🧪 Pruebas</h3>
 <sub>Flujos críticos · regresiones · casos límite</sub>
 </div>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 <div align="center">
 <h3>🔐 Seguridad</h3>
 <sub>Autenticación · permisos · validación</sub>
@@ -420,13 +420,13 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 <div align="center">
 <h3>🗄️ Datos</h3>
 <sub>Integridad · migraciones · transacciones</sub>
 </div>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 <div align="center">
 <h3>🚀 Entrega</h3>
 <sub>Entornos · secretos · build · despliegue</sub>
@@ -461,9 +461,9 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 
 </div>
 
-<table>
+<table width="100%" align="center">
 <tr>
-<td width="33%" align="center" valign="middle">
+<td width="33.33%" align="center" valign="middle">
 <div align="center">
 <h3>🎯 Roles</h3>
 Full Stack Developer<br>
@@ -471,7 +471,7 @@ Desarrollo Web<br>
 Desarrollo de APIs
 </div>
 </td>
-<td width="33%" align="center" valign="middle">
+<td width="33.33%" align="center" valign="middle">
 <div align="center">
 <h3>🏢 Productos</h3>
 Ventas · Inventario<br>
@@ -479,7 +479,7 @@ Educación · Delivery<br>
 Procesos internos
 </div>
 </td>
-<td width="33%" align="center" valign="middle">
+<td width="33.33%" align="center" valign="middle">
 <div align="center">
 <h3>🌎 Modalidad</h3>
 Remoto · Híbrido<br>
