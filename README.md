@@ -186,50 +186,87 @@ Interfaces claras, responsive y orientadas al usuario.
 
 <div align="center">
 
-### Interfaces claras, útiles y adaptables
+### Diseño interfaces para que sean claras, rápidas y fáciles de usar
 
-<sub>Diseño pensando en la experiencia del usuario, no solo en que la pantalla se vea bien.</sub>
+<sub>La parte visual debe acompañar al producto: menos fricción, mejor jerarquía y una experiencia consistente.</sub>
 
 <p>
-  <img src="https://img.shields.io/badge/Responsive-Adaptable-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/UX-Flujos%20claros-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Accesibilidad-Jerarquía%20visual-22C55E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Performance-Optimización-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Responsive-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/UX-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Accesibilidad-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Rendimiento-F59E0B?style=flat-square" />
 </p>
 
 </div>
 
 <table>
 <tr>
-<td width="25%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
-### 📱 Responsive
+<div align="center">
+
+### 📱 Diseño responsive
 <sub>Móvil · tablet · escritorio</sub>
 
-</td>
-<td width="25%" align="center" valign="middle">
+<br><br>
 
-### 🧩 UX
-<sub>Flujos simples y feedback visual</sub>
+Interfaces que aprovechan el espacio y evitan scrolls innecesarios.
+
+</div>
 
 </td>
-<td width="25%" align="center" valign="middle">
+
+<td width="50%" align="center" valign="middle">
+
+<div align="center">
+
+### 🧩 Experiencia de usuario
+<sub>Flujos · estados · feedback</sub>
+
+<br><br>
+
+Acciones claras, menos pasos y respuestas visuales comprensibles.
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<div align="center">
 
 ### ♿ Accesibilidad
-<sub>Contraste, jerarquía y navegación</sub>
+<sub>Contraste · jerarquía · navegación</sub>
+
+<br><br>
+
+Contenido legible y estructuras fáciles de recorrer y comprender.
+
+</div>
 
 </td>
-<td width="25%" align="center" valign="middle">
+
+<td width="50%" align="center" valign="middle">
+
+<div align="center">
 
 ### ⚡ Rendimiento
-<sub>Componentes reutilizables y carga eficiente</sub>
+<sub>Componentes · carga · reutilización</sub>
+
+<br><br>
+
+Interfaces eficientes, reutilizables y preparadas para crecer.
+
+</div>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <b>Objetivo:</b> interfaces fáciles de entender, rápidas de usar y consistentes.
+  <b>Objetivo:</b> que cada pantalla ayude al usuario a completar su tarea con claridad y rapidez.
 </p>
 
 
