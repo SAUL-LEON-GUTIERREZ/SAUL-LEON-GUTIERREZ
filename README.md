@@ -30,7 +30,12 @@
 
 ---
 
-## 👋 Sobre mí
+<div align="center">
+
+<h2>👋 Sobre mí</h2>
+<img src="https://img.shields.io/badge/PERFIL-FULL%20STACK-7C3AED?style=flat-square" alt="Perfil Full Stack" />
+
+</div>
 
 <div align="center">
 
@@ -83,7 +88,12 @@ Interfaces claras, responsive y orientadas al usuario.
 
 ---
 
-## ⚡ Pila tecnológica
+<div align="center">
+
+<h2>⚡ Pila tecnológica</h2>
+<img src="https://img.shields.io/badge/STACK-TECNOLOGÍAS%20Y%20HERRAMIENTAS-06B6D4?style=flat-square" alt="Pila tecnológica" />
+
+</div>
 
 <div align="center">
 
@@ -182,7 +192,12 @@ Interfaces claras, responsive y orientadas al usuario.
 
 ---
 
-## ✨ Cuidado de interfaz
+<div align="center">
+
+<h2>✨ Cuidado de interfaz</h2>
+<img src="https://img.shields.io/badge/UI%20%2F%20UX-DISEÑO%20CENTRADO%20EN%20EL%20USUARIO-2563EB?style=flat-square" alt="Cuidado de interfaz" />
+
+</div>
 
 <div align="center">
 
@@ -253,7 +268,12 @@ Interfaces claras, responsive y orientadas al usuario.
 
 ---
 
-# 🚀 Proyectos destacados
+<div align="center">
+
+<h2>🚀 Proyectos destacados</h2>
+<img src="https://img.shields.io/badge/PORTAFOLIO-SOLUCIONES%20REALES-8B5CF6?style=flat-square" alt="Proyectos destacados" />
+
+</div>
 
 <div align="center">
 
@@ -387,7 +407,12 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 
 ---
 
-## 🧭 Mi forma de construir software
+<div align="center">
+
+<h2>🧭 Mi forma de construir software</h2>
+<img src="https://img.shields.io/badge/PROCESO-INGENIERÍA%20DE%20SOFTWARE-0EA5E9?style=flat-square" alt="Proceso de ingeniería" />
+
+</div>
 
 <div align="center">
 
@@ -450,7 +475,12 @@ Medir, corregir y mejorar sin romper lo existente.
 
 ---
 
-## 🧪 Calidad técnica
+<div align="center">
+
+<h2>🧪 Calidad técnica</h2>
+<img src="https://img.shields.io/badge/CALIDAD-PRUEBAS%20%7C%20SEGURIDAD%20%7C%20DATOS-22C55E?style=flat-square" alt="Calidad técnica" />
+
+</div>
 
 <div align="center">
 
@@ -499,7 +529,12 @@ Entornos, secretos, build y despliegue.
 
 ---
 
-## 💼 Enfoque profesional
+<div align="center">
+
+<h2>💼 Enfoque profesional</h2>
+<img src="https://img.shields.io/badge/CARRERA-FULL%20STACK%20DEVELOPER-F59E0B?style=flat-square" alt="Enfoque profesional" />
+
+</div>
 
 <div align="center">
 
@@ -562,7 +597,12 @@ Proyectos freelance
 
 ---
 
-## 📬 Contacto directo
+<div align="center">
+
+<h2>📬 Contacto directo</h2>
+<img src="https://img.shields.io/badge/CONTACTO-OPORTUNIDADES%20Y%20PROYECTOS-EA4335?style=flat-square" alt="Contacto directo" />
+
+</div>
 
 <div align="center">
 
