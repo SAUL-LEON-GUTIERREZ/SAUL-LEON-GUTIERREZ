@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0F172A,30:312E81,68:7C3AED,100:06B6D4&text=Saul%20Alex%20Leon%20Gutierrez&fontColor=FFFFFF&fontSize=34&fontAlignY=37&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Backend%20%2F%20Full%20Stack&descAlignY=57&descSize=18" alt="Saul Alex Leon Gutierrez" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0F172A,30:312E81,68:7C3AED,100:06B6D4&text=Saul%20Alex%20Leon%20Gutierrez&fontColor=FFFFFF&fontSize=34&fontAlignY=37&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Full%20Stack%20Developer&descAlignY=57&descSize=18" alt="Saul Alex Leon Gutierrez" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=700&color=7C3AED&center=true&vCenter=true&width=760&lines=Backend+con+Laravel+y+PHP;APIs+REST+y+sistemas+empresariales;Frontend+con+React%2C+Next.js+y+TypeScript;Software+para+resolver+problemas+reales" alt="Presentación animada" />
 
@@ -32,7 +32,7 @@
 
 ## 👋 Sobre mí
 
-Soy **Ingeniero de Sistemas e Informática** enfocado en desarrollo **Backend / Full Stack**.
+Soy **Ingeniero de Sistemas e Informática** enfocado en desarrollo **Full Stack**.
 
 Mi stack principal está centrado en **PHP + Laravel**, diseñando APIs, autenticación, roles, reglas de negocio, inventarios, ventas, pedidos, asistencia, reportes y plataformas multiusuario. Cuando el producto requiere una experiencia web moderna, complemento el backend con **React, Next.js, TypeScript y Tailwind CSS**.
 
