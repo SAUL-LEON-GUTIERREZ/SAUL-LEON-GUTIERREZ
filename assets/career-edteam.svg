@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1000" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#061827"/>
+      <stop offset="0.62" stop-color="#082238"/>
+      <stop offset="1" stop-color="#0A3150"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#007BDF"/>
+      <stop offset="1" stop-color="#00CBFF"/>
+    </linearGradient>
+  </defs>
+  
+  <rect x="24" y="18" width="952" height="214" rx="26" fill="url(#panel)" stroke="#0D4D75" stroke-width="1.3"/>
+  <rect x="24" y="18" width="952" height="5" rx="2.5" fill="url(#blue)"/>
+  <rect x="52" y="58" width="282" height="138" rx="18" fill="#0B2236" stroke="#123D5B" stroke-width="1.2"/><rect x="359" y="58" width="282" height="138" rx="18" fill="#0B2236" stroke="#123D5B" stroke-width="1.2"/><rect x="666" y="58" width="282" height="138" rx="18" fill="#0B2236" stroke="#123D5B" stroke-width="1.2"/>
+  <text x="193" y="92" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#00CBFF">ROLES</text><text x="193" y="122" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Full Stack Developer</text><text x="193" y="147" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="500" fill="#B9CFDD">Desarrollo Web</text><text x="193" y="171" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="500" fill="#B9CFDD">Desarrollo de APIs</text>
+  <text x="500" y="92" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#00CBFF">PRODUCTOS</text><text x="500" y="122" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Ventas · Inventario</text><text x="500" y="147" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="500" fill="#B9CFDD">Educación · Delivery</text><text x="500" y="171" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="500" fill="#B9CFDD">Procesos internos</text>
+  <text x="807" y="92" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#00CBFF">MODALIDAD</text><text x="807" y="122" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Remoto · Híbrido</text><text x="807" y="147" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="500" fill="#B9CFDD">Perú / LatAm</text><text x="807" y="171" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="500" fill="#B9CFDD">Proyectos freelance</text>
+  <text x="500" y="219" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11.5" font-weight="600" fill="#FBA905">Software con impacto directo en la operación y preparado para evolucionar con el negocio.</text>
+
+</svg>
