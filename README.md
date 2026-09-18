@@ -2,183 +2,223 @@
 
 # Saul Alex Leon Gutierrez
 
-### Ingeniero de Sistemas · Backend / Full Stack Developer
+### Software Engineer · Backend / Full Stack
 
-**PHP · Laravel · REST APIs · MySQL · React · Next.js · TypeScript**
+I build web systems for real operational workflows:  
+**sales · inventory · attendance · orders · reporting · multi-user platforms**
 
-Desarrollo sistemas web orientados a procesos reales: ventas, inventarios, asistencia, pedidos, reportes y plataformas multiusuario.
-
-[Portafolio](https://leongutierrez.studio) · [Leon Gutierrez Studio](https://github.com/SAUL-LEON-GUTIERREZ/leon-studio) · [Contacto](mailto:saulalexleongutierrez@gmail.com)
+[Portfolio](https://leongutierrez.studio) ·
+[GitHub](https://github.com/SAUL-LEON-GUTIERREZ) ·
+[Email](mailto:saulalexleongutierrez@gmail.com)
 
 </div>
 
 ---
 
-## Sobre mí
+## Engineering Profile
 
-Soy Ingeniero de Sistemas e Informática enfocado en desarrollo **Backend / Full Stack**, con especial interés en construir aplicaciones útiles para operaciones reales.
+Systems and Informatics Engineer focused on **backend engineering with PHP/Laravel** and full-stack product development.
 
-Mi stack principal está centrado en **PHP y Laravel**, trabajando con APIs REST, bases de datos relacionales, autenticación, roles, reportes e integración con frontends modernos.
+I work on applications where business rules matter: authentication, authorization, transactional workflows, inventory, reporting, multi-role access, APIs and integration with modern frontends.
 
-También desarrollo interfaces y productos con **React, Next.js, TypeScript y Tailwind CSS**.
+My current engineering focus is on building systems that are:
 
-Actualmente sigo fortaleciendo mis conocimientos en arquitectura de software, pruebas, seguridad, despliegue y buenas prácticas de desarrollo.
-
----
-
-## Stack principal
-
-### Backend
-
-```text
-PHP · Laravel · REST APIs · Laravel Sanctum · Eloquent ORM
-```
-
-### Frontend
-
-```text
-React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
-```
-
-### Datos y herramientas
-
-```text
-MySQL · SQLite · Git · GitHub · Docker · Laravel Sail · Postman · Vite
-```
-
-### También he trabajado con
-
-```text
-Livewire · Alpine.js · Supabase · Filament · Flutter · Chart.js
-```
+- maintainable and modular;
+- secure by default;
+- explicit about business rules;
+- testable;
+- ready to evolve without rewriting the whole product.
 
 ---
 
-## Proyectos destacados
+## Core Stack
 
-### Sistema de Asistencia Escolar
+<div align="left">
 
-Plataforma de gestión escolar desarrollada con Laravel, orientada al control de estudiantes, matrículas y asistencia.
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-111827)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-**Tecnologías:** Laravel 12 · Livewire 4 · Tailwind CSS · QR · SQL
+</div>
 
-**Funciones principales:**
-- asistencia mediante QR;
-- estudiantes y matrículas;
-- docentes y apoderados;
-- reportes;
-- roles y permisos;
-- portal institucional;
-- arquitectura multiinstitución.
+**Backend:** PHP · Laravel · Sanctum · Eloquent · REST APIs  
+**Frontend:** React · Next.js · TypeScript · JavaScript · Livewire · Alpine.js  
+**Data:** MySQL · SQLite · relational modeling  
+**Tooling:** Git · GitHub · Docker · Laravel Sail · Postman · Vite  
+**Additional:** Filament · Supabase · Flutter · Chart.js
 
-**Estado:** desarrollo activo · repositorio privado.
+---
+
+## Engineering Areas
+
+| Area | What I work on |
+|---|---|
+| Backend architecture | Controllers, services, policies, validation, domain workflows and modularization |
+| APIs | REST endpoints, authentication, authorization, validation and frontend integration |
+| Security | Roles, permissions, protected routes, secure sessions and input validation |
+| Data | Relational schemas, migrations, queries, inventory and transaction-oriented models |
+| Testing | Backend tests, isolated test databases and regression-oriented validation |
+| Product development | Translating operational problems into usable software workflows |
+| Deployment | Environment configuration, production readiness and application delivery |
+
+---
+
+## Selected Projects
+
+### School Attendance & Management Platform
+
+**Laravel 12 · Livewire 4 · Tailwind CSS · QR · SQL**
+
+Multi-institution school platform designed around attendance and academic operations.
+
+**Engineering scope**
+- student and enrollment management;
+- QR-based attendance workflows;
+- teachers and guardians;
+- reports and audit-oriented records;
+- roles and permissions;
+- institutional portal;
+- multi-institution architecture.
+
+**Repository:** private · active development
 
 ---
 
 ### POS Celulares
 
-Sistema full stack para gestionar la operación de una tienda de celulares y accesorios.
+**Laravel 11 · React 18 · Sanctum · REST API**
 
-**Tecnologías:** Laravel 11 · React 18 · Laravel Sanctum · REST API
+Full-stack commercial system for mobile phone stores and inventory-heavy retail operations.
 
-**Funciones principales:**
-- punto de venta;
-- productos e inventario;
-- control por IMEI;
-- caja;
-- clientes;
-- compras;
-- Kardex y alertas;
-- dashboard y reportes.
+**Engineering scope**
+- point of sale;
+- cash register workflows;
+- inventory and stock adjustments;
+- IMEI traceability;
+- purchases and customers;
+- Kardex and inventory alerts;
+- dashboards and operational reporting;
+- authenticated API.
 
-**Estado:** desarrollo activo · repositorio privado.
+**Repository:** private · active development
 
 ---
 
 ### MARKA
 
-Plataforma de delivery local que conecta clientes, negocios y repartidores.
+**Laravel 12 · React · Flutter · Filament · Sanctum**
 
-**Tecnologías:** Laravel 12 · React · Flutter · Filament · Sanctum
+Local delivery platform connecting customers, businesses and drivers through a role-based workflow.
 
-**Funciones principales:**
-- autenticación por roles;
-- catálogo y carrito;
-- ubicación y cobertura;
-- cotización desde backend;
-- pedidos;
-- panel de negocio;
-- flujo de repartidor;
-- administración con Filament.
+**Engineering scope**
+- customer/business/driver roles;
+- location and delivery coverage;
+- catalog and cart;
+- server-side quotations;
+- transactional order creation;
+- stock validation;
+- business order workflow;
+- driver assignment and delivery;
+- Filament administration;
+- automated backend and frontend tests.
 
-**Estado:** proyecto funcional en evolución · repositorio privado.
+**Repository:** private · functional project in evolution
 
 ---
 
 ### D Mare Sushi
 
-Aplicación web para catálogo y experiencia de pedidos de un restaurante.
+**React · TypeScript · Tailwind CSS · Supabase**
 
-**Tecnologías:** React · TypeScript · Tailwind CSS · Supabase
+Restaurant ordering interface focused on product discovery and digital ordering experience.
 
-**Funciones principales:**
-- catálogo por categorías;
-- promociones;
-- carrito;
-- navegación responsive;
-- panel administrativo visual;
-- integración preparada con Supabase.
+**Engineering scope**
+- responsive catalog;
+- category filtering;
+- discounts and promotions;
+- cart interactions;
+- administration UI foundation;
+- Supabase client integration.
 
-**Estado:** frontend funcional en evolución · repositorio privado.
+**Repository:** private · frontend in evolution
 
 ---
 
 ### Leon Gutierrez Studio
 
-Mi portafolio profesional y sitio de servicios de desarrollo de software.
+**Next.js 16 · React 19 · TypeScript · Tailwind CSS**
 
-**Tecnologías:** Next.js 16 · React 19 · TypeScript · Tailwind CSS
+Professional portfolio and software services site.
 
-Incluye perfil profesional, proyectos, servicios, SEO, contacto y una presentación orientada tanto a reclutadores como a potenciales clientes.
+It combines developer profile, real project cases, technical positioning, SEO and direct contact.
 
-**Código:** [github.com/SAUL-LEON-GUTIERREZ/leon-studio](https://github.com/SAUL-LEON-GUTIERREZ/leon-studio)
+[View repository →](https://github.com/SAUL-LEON-GUTIERREZ/leon-studio)  
+[Visit portfolio →](https://leongutierrez.studio)
 
 ---
 
-## Qué estoy fortaleciendo
+## How I Approach Software
 
-- arquitectura backend con Laravel;
-- diseño y consumo de APIs REST;
-- autenticación y autorización;
-- testing automatizado;
-- seguridad de aplicaciones web;
+```text
+Understand the process
+        ↓
+Model the business rules
+        ↓
+Design the data and API boundaries
+        ↓
+Build the smallest reliable workflow
+        ↓
+Validate with tests and real scenarios
+        ↓
+Iterate without breaking existing behavior
+```
+
+I prefer explicit rules over hidden behavior, reusable components over duplication, and verified functionality over feature lists that are not implemented.
+
+---
+
+## Currently Deepening
+
+- Laravel application architecture;
+- API design and integration;
+- automated testing;
+- application security;
 - CI/CD;
-- despliegue y observabilidad;
-- integración entre Laravel y React;
-- patrones para aplicaciones SaaS y multiusuario.
+- production deployment;
+- observability;
+- performance;
+- SaaS and multi-tenant patterns;
+- backend/frontend integration.
 
 ---
 
-## Enfoque profesional
+## Professional Focus
 
-Me interesan oportunidades relacionadas con:
+Open to roles and projects involving:
 
-**Backend PHP / Laravel · Full Stack Junior · Desarrollo Web · APIs REST · Sistemas empresariales**
+**Backend PHP / Laravel · Full Stack · REST APIs · Business Systems · Web Applications**
 
-También desarrollo proyectos propios orientados a digitalizar procesos de pequeñas empresas, comercios e instituciones.
+I am particularly interested in software used for operations, internal processes, commerce, education and service businesses.
 
 ---
 
-## Contacto
+## Contact
 
-**Email:** [saulalexleongutierrez@gmail.com](mailto:saulalexleongutierrez@gmail.com)  
-**GitHub:** [SAUL-LEON-GUTIERREZ](https://github.com/SAUL-LEON-GUTIERREZ)  
-**Portafolio:** [leongutierrez.studio](https://leongutierrez.studio)
+**Portfolio:** [leongutierrez.studio](https://leongutierrez.studio)  
+**GitHub:** [github.com/SAUL-LEON-GUTIERREZ](https://github.com/SAUL-LEON-GUTIERREZ)  
+**Email:** [saulalexleongutierrez@gmail.com](mailto:saulalexleongutierrez@gmail.com)
 
 ---
 
 <div align="center">
 
-### Construyendo software para resolver problemas reales.
+**Build software that makes the operation clearer, safer and easier to scale.**
 
 </div>
