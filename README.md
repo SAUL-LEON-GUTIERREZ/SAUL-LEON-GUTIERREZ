@@ -1,14 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:061827,38:08283F,72:005A97,100:007BDF&text=Saul%20Alex%20Leon%20Gutierrez&fontColor=FFFFFF&fontSize=34&fontAlignY=37&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Full%20Stack%20Developer&descAlignY=57&descSize=18" alt="Saul Alex Leon Gutierrez" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:2A3B47,38:007BDF,72:1292EE,100:00CBFF&text=Saul%20Alex%20Leon%20Gutierrez&fontColor=FFFFFF&fontSize=34&fontAlignY=37&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Full%20Stack%20Developer&descAlignY=57&descSize=18" alt="Saul Alex Leon Gutierrez" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=007BDF&center=true&vCenter=true&width=760&lines=Full+Stack+con+Laravel+y+React;APIs+REST+y+sistemas+empresariales;Interfaces+claras+y+responsive;Software+para+resolver+problemas+reales" alt="Presentación animada" />
 
 <p>
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-061827?style=for-the-badge&logo=code&logoColor=white" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Perú-Remoto%20%2F%20Híbrido-007BDF?style=for-the-badge" alt="Perú" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-2A3B47?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Stack-Laravel%20%2B%20React-007BDF?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Laravel y React" />
+  <img src="https://img.shields.io/badge/Perú-Remoto%20%2F%20Híbrido-1292EE?style=for-the-badge" alt="Perú" />
 </p>
 
 <p>
@@ -37,11 +36,49 @@
 
 <div align="center">
 
-<br>
-
-<img width="96%" src="./assets/about-edteam.svg" alt="Resumen profesional: Full Stack, producto, datos y experiencia" />
+Soy <b>Ingeniero de Sistemas e Informática</b> enfocado en desarrollo <b>Full Stack</b>.<br>
+Construyo soluciones web desde la lógica de negocio y los datos hasta una experiencia clara, responsive y mantenible.
 
 </div>
+
+<br>
+
+<table width="100%" align="center">
+<tr>
+<td width="50%" align="center" valign="middle">
+<div align="center">
+<h3>🧩 Full Stack</h3>
+<img src="https://img.shields.io/badge/Frontend%20%2B%20Backend-007BDF?style=flat-square" alt="Full Stack" /><br><br>
+Laravel · React · Next.js · TypeScript
+</div>
+</td>
+<td width="50%" align="center" valign="middle">
+<div align="center">
+<h3>🧠 Producto</h3>
+<img src="https://img.shields.io/badge/Lógica%20de%20negocio-1292EE?style=flat-square" alt="Producto" /><br><br>
+Ventas · Pedidos · Inventario · Asistencia
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+<div align="center">
+<h3>🗄️ Datos</h3>
+<img src="https://img.shields.io/badge/SQL%20%2B%20Reportes-2A3B47?style=flat-square" alt="Datos" /><br><br>
+Modelado · Migraciones · Consultas · Reportes
+</div>
+</td>
+<td width="50%" align="center" valign="middle">
+<div align="center">
+<h3>🎨 Experiencia</h3>
+<img src="https://img.shields.io/badge/UI%20%2F%20UX-00BFF0?style=flat-square" alt="Experiencia" /><br><br>
+Responsive · UX · Componentes reutilizables
+</div>
+</td>
+</tr>
+</table>
+
+<p align="center"><b>Objetivo:</b> transformar procesos reales en software útil, mantenible y preparado para evolucionar.</p>
 
 <div align="center">
 
@@ -170,70 +207,70 @@
 <tr>
 <td width="50%" align="center" valign="top">
 <div align="center">
-
-<img width="98%" src="./assets/project-attendance-ed.svg" alt="Sistema de Asistencia Escolar" />
-
-<br>
-
+<h3>🏫 Sistema de Asistencia Escolar</h3>
+<img src="https://img.shields.io/badge/EDUCACIÓN-SaaS%20MULTIINSTITUCIÓN-007BDF?style=flat-square" />
+<br><br>
+Asistencia, matrículas, roles, reportes y portal institucional.
+<br><br>
 <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Livewire-4-4E56A6?style=flat-square&logo=livewire&logoColor=white" />
-
 <br><br>
-
 <sub><code>QR</code> · <code>Roles</code> · <code>Reportes</code> · <code>Multi-tenant</code></sub>
-
+<br><br>
+<img src="https://img.shields.io/badge/Estado-Activo-0F9D58?style=flat-square" />
+<img src="https://img.shields.io/badge/Código-Privado-2A3B47?style=flat-square" />
 </div>
 </td>
 <td width="50%" align="center" valign="top">
 <div align="center">
-
-<img width="98%" src="./assets/project-pos-ed.svg" alt="POS Celulares" />
-
-<br>
-
+<h3>📱 POS Celulares</h3>
+<img src="https://img.shields.io/badge/COMERCIO-PUNTO%20DE%20VENTA-1292EE?style=flat-square" />
+<br><br>
+Ventas, caja, inventario, compras, clientes y control por IMEI.
+<br><br>
 <img src="https://img.shields.io/badge/Laravel-11-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/React-18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-
 <br><br>
-
 <sub><code>POS</code> · <code>IMEI</code> · <code>Kardex</code> · <code>Dashboard</code></sub>
-
+<br><br>
+<img src="https://img.shields.io/badge/Estado-Activo-0F9D58?style=flat-square" />
+<img src="https://img.shields.io/badge/Código-Privado-2A3B47?style=flat-square" />
 </div>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 <div align="center">
-
-<img width="98%" src="./assets/project-marka-ed.svg" alt="MARKA" />
-
-<br>
-
+<h3>🚚 MARKA</h3>
+<img src="https://img.shields.io/badge/DELIVERY-PLATAFORMA%20MULTIROL-FBA905?style=flat-square&logoColor=2A3B47" />
+<br><br>
+Pedidos, cobertura, stock y flujo entre cliente, negocio y repartidor.
+<br><br>
 <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-
 <br><br>
-
 <sub><code>Pedidos</code> · <code>Cobertura</code> · <code>Stock</code> · <code>Reparto</code></sub>
-
+<br><br>
+<img src="https://img.shields.io/badge/Estado-En%20evolución-1292EE?style=flat-square" />
+<img src="https://img.shields.io/badge/Código-Privado-2A3B47?style=flat-square" />
 </div>
 </td>
 <td width="50%" align="center" valign="top">
 <div align="center">
-
-<img width="98%" src="./assets/project-sushi-ed.svg" alt="D Mare Sushi" />
-
-<br>
-
+<h3>🍣 D Mare Sushi</h3>
+<img src="https://img.shields.io/badge/RESTAURANTE-EXPERIENCIA%20DIGITAL-00BFF0?style=flat-square" />
+<br><br>
+Catálogo, categorías, promociones y carrito responsive.
+<br><br>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-
 <br><br>
-
 <sub><code>Catálogo</code> · <code>Carrito</code> · <code>Responsive</code> · <code>Supabase</code></sub>
-
+<br><br>
+<img src="https://img.shields.io/badge/Estado-En%20evolución-1292EE?style=flat-square" />
+<img src="https://img.shields.io/badge/Código-Privado-2A3B47?style=flat-square" />
 </div>
 </td>
 </tr>
@@ -243,15 +280,17 @@
 <tr>
 <td width="100%" align="center" valign="middle">
 <div align="center">
-
-<img width="96%" src="./assets/project-studio-ed.svg" alt="Leon Gutierrez Studio" />
-
-<br>
-
+<h3>🌐 Leon Gutierrez Studio</h3>
+<img src="https://img.shields.io/badge/PORTAFOLIO-PRODUCTO%20PERSONAL-007BDF?style=flat-square" />
+<br><br>
+Portafolio profesional con proyectos reales, servicios, SEO y contacto.
+<br><br>
 <img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-
+<br><br>
+<img src="https://img.shields.io/badge/Estado-En%20preparación-FBA905?style=flat-square&logoColor=2A3B47" />
+<img src="https://img.shields.io/badge/Código-Privado%20temporalmente-2A3B47?style=flat-square" />
 </div>
 </td>
 </tr>
@@ -348,18 +387,43 @@
 <div align="center">
 
 <p>
-  <img src="https://img.shields.io/badge/Full%20Stack-Laravel%20%2B%20React-061827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Laravel%20%2B%20React-2A3B47?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/APIs-REST-007BDF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sistemas-Empresariales-1292EE?style=for-the-badge" />
 </p>
 
-<img width="96%" src="./assets/career-edteam.svg" alt="Roles, productos y modalidad profesional" />
-
-<br>
-
-<b>Busco aportar en productos donde el software tenga impacto directo en la operación y pueda evolucionar con el negocio.</b>
-
 </div>
+
+<table width="100%" align="center">
+<tr>
+<td width="33.33%" align="center" valign="middle">
+<div align="center">
+<h3>🎯 Roles</h3>
+Full Stack Developer<br>
+Desarrollo Web<br>
+Desarrollo de APIs
+</div>
+</td>
+<td width="33.33%" align="center" valign="middle">
+<div align="center">
+<h3>🏢 Productos</h3>
+Ventas · Inventario<br>
+Educación · Delivery<br>
+Procesos internos
+</div>
+</td>
+<td width="33.33%" align="center" valign="middle">
+<div align="center">
+<h3>🌎 Modalidad</h3>
+Remoto · Híbrido<br>
+Perú / LatAm<br>
+Proyectos freelance
+</div>
+</td>
+</tr>
+</table>
+
+<p align="center"><b>Busco aportar en productos donde el software tenga impacto directo en la operación y pueda evolucionar con el negocio.</b></p>
 
 <div align="center">
 
