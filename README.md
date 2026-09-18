@@ -32,40 +32,54 @@
 
 ## 👋 Sobre mí
 
-Soy **Ingeniero de Sistemas e Informática** enfocado en desarrollo **Full Stack**.
+<div align="center">
 
-Mi stack principal está centrado en **PHP + Laravel**, diseñando APIs, autenticación, roles, reglas de negocio, inventarios, ventas, pedidos, asistencia, reportes y plataformas multiusuario. Cuando el producto requiere una experiencia web moderna, complemento el backend con **React, Next.js, TypeScript y Tailwind CSS**.
+### Full Stack Developer orientado a producto
 
-No busco únicamente que una aplicación funcione: me interesa que tenga **estructura clara, datos consistentes, una interfaz usable y una base técnica que pueda seguir evolucionando**.
+<sub>Ingeniero de Sistemas e Informática · Construyo soluciones web completas, desde la lógica de negocio hasta la experiencia de usuario.</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Full%20Stack-Laravel%20%2B%20React-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-REST-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Datos-MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI-Responsive-22C55E?style=for-the-badge" />
+</p>
+
+</div>
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center" valign="middle">
 
-### 🧠 Backend
-APIs, servicios, reglas de negocio, seguridad y arquitectura Laravel.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 🎨 Frontend
-Interfaces modernas, responsive, componentes reutilizables y UX.
+### 🧩 Full Stack
+Laravel, React, Next.js y TypeScript.
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center" valign="middle">
+
+### 🧠 Negocio
+Roles, ventas, pedidos, inventarios y asistencia.
+
+</td>
+<td width="25%" align="center" valign="middle">
 
 ### 🗄️ Datos
-Modelado relacional, migraciones, consultas, reportes y consistencia.
+Modelado, migraciones, consultas y reportes.
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center" valign="middle">
 
-### 🚀 Producto
-Transformar procesos reales en sistemas simples de utilizar y mantener.
+### 🎨 Experiencia
+Interfaces claras, responsive y orientadas al usuario.
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <b>Mi objetivo:</b> transformar procesos reales en software útil, mantenible y preparado para evolucionar.
+</p>
+
 
 ---
 
