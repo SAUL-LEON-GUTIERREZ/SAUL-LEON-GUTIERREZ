@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:081C2F,42:0B3558,72:006BB6,100:008DE5&text=Saul%20Alex%20Leon%20Gutierrez&fontColor=FFFFFF&fontSize=34&fontAlignY=37&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Full%20Stack%20Developer&descAlignY=57&descSize=18" alt="Saul Alex Leon Gutierrez" />
+<img width="100%" src="./assets/hero-profile.svg" alt="Saul Alex Leon Gutierrez · Full Stack Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=1FB6FF&center=true&vCenter=true&width=760&lines=Full+Stack+con+Laravel+y+React;APIs+REST+y+sistemas+empresariales;Interfaces+claras+y+responsive;Software+para+resolver+problemas+reales" alt="Presentación animada" />
 
@@ -25,7 +25,7 @@
 
 </div>
 
-<p align="center"><img width="88%" src="./assets/section-about.svg" alt="Sobre mí" /></p>
+<p align="center"><img width="84%" src="./assets/section-about.svg" alt="Sobre mí" /></p>
 
 <div align="center">
 
@@ -53,6 +53,11 @@ Ventas · Pedidos · Inventario · Asistencia
 </div>
 </td>
 </tr>
+</table>
+
+<br>
+
+<table width="100%" align="center">
 <tr>
 <td width="50%" align="center" valign="middle">
 <div align="center">
@@ -73,7 +78,7 @@ Responsive · UX · Componentes reutilizables
 
 <p align="center"><b>Objetivo:</b> transformar procesos reales en software útil, mantenible y preparado para evolucionar.</p>
 
-<p align="center"><img width="88%" src="./assets/section-stack.svg" alt="Pila tecnológica" /></p>
+<p align="center"><img width="84%" src="./assets/section-stack.svg" alt="Pila tecnológica" /></p>
 
 <div align="center">
 
@@ -108,6 +113,11 @@ Responsive · UX · Componentes reutilizables
 </div>
 </td>
 </tr>
+</table>
+
+<br>
+
+<table width="100%" align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 <div align="center">
@@ -134,7 +144,7 @@ Responsive · UX · Componentes reutilizables
 </tr>
 </table>
 
-<p align="center"><img width="88%" src="./assets/section-ui.svg" alt="Cuidado de interfaz" /></p>
+<p align="center"><img width="84%" src="./assets/section-ui.svg" alt="Cuidado de interfaz" /></p>
 
 <table width="100%" align="center">
 <tr>
@@ -153,6 +163,11 @@ Responsive · UX · Componentes reutilizables
 </div>
 </td>
 </tr>
+</table>
+
+<br>
+
+<table width="100%" align="center">
 <tr>
 <td width="50%" align="center" valign="middle">
 <div align="center">
@@ -173,7 +188,7 @@ Responsive · UX · Componentes reutilizables
 
 <p align="center"><b>Objetivo:</b> interfaces atractivas, rápidas y fáciles de usar.</p>
 
-<p align="center"><img width="88%" src="./assets/section-projects.svg" alt="Proyectos destacados" /></p>
+<p align="center"><img width="84%" src="./assets/section-projects.svg" alt="Proyectos destacados" /></p>
 
 <table width="100%" align="center">
 <tr>
@@ -210,6 +225,11 @@ Ventas, caja, inventario, compras, clientes y control por IMEI.
 </div>
 </td>
 </tr>
+</table>
+
+<br>
+
+<table width="100%" align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 <div align="center">
@@ -266,16 +286,16 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 </tr>
 </table>
 
-<p align="center"><img width="88%" src="./assets/section-process.svg" alt="Cómo construyo software" /></p>
+<p align="center"><img width="84%" src="./assets/section-process.svg" alt="Cómo construyo software" /></p>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-Entender-081C2F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/02-Modelar-006BB6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/03-Diseñar-008DE5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/04-Construir-1FB6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/05-Validar-006BB6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/06-Evolucionar-0B4F8A?style=for-the-badge&logoColor=081C2F" />
+<img src="https://img.shields.io/badge/01-Entender-081C2F?style=flat-square" />
+<img src="https://img.shields.io/badge/02-Modelar-006BB6?style=flat-square" />
+<img src="https://img.shields.io/badge/03-Diseñar-008DE5?style=flat-square" />
+<img src="https://img.shields.io/badge/04-Construir-1FB6FF?style=flat-square" />
+<img src="https://img.shields.io/badge/05-Validar-006BB6?style=flat-square" />
+<img src="https://img.shields.io/badge/06-Evolucionar-0B4F8A?style=flat-square&logoColor=081C2F" />
 
 <br><br>
 
@@ -287,7 +307,7 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 
 </div>
 
-<p align="center"><img width="88%" src="./assets/section-quality.svg" alt="Calidad técnica" /></p>
+<p align="center"><img width="84%" src="./assets/section-quality.svg" alt="Calidad técnica" /></p>
 
 <table width="100%" align="center">
 <tr>
@@ -306,6 +326,11 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 </div>
 </td>
 </tr>
+</table>
+
+<br>
+
+<table width="100%" align="center">
 <tr>
 <td width="50%" align="center" valign="middle">
 <div align="center">
@@ -331,7 +356,7 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
   <img src="https://img.shields.io/badge/SaaS-Multi--tenant-1FB6FF?style=flat-square" />
 </p>
 
-<p align="center"><img width="88%" src="./assets/section-career.svg" alt="Enfoque profesional" /></p>
+<p align="center"><img width="84%" src="./assets/section-career.svg" alt="Enfoque profesional" /></p>
 
 <div align="center">
 
@@ -374,7 +399,7 @@ Proyectos freelance
 
 <p align="center"><b>Busco aportar en productos donde el software tenga impacto directo en la operación y pueda evolucionar con el negocio.</b></p>
 
-<p align="center"><img width="88%" src="./assets/section-contact.svg" alt="Contacto directo" /></p>
+<p align="center"><img width="84%" src="./assets/section-contact.svg" alt="Contacto directo" /></p>
 
 <div align="center">
 
@@ -403,7 +428,7 @@ Proyectos freelance
 
 <div align="center">
 
-<img width="72%" src="./assets/section-accent.svg" alt="" />
+<img width="64%" src="./assets/section-accent.svg" alt="" />
 
 ### <code>Código claro · Interfaces útiles · Software preparado para evolucionar</code>
 
