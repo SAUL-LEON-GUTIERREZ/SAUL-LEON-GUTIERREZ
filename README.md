@@ -186,88 +186,69 @@ Interfaces claras, responsive y orientadas al usuario.
 
 <div align="center">
 
-### Diseño interfaces para que sean claras, rápidas y fáciles de usar
+### Interfaces claras, ágiles y visualmente consistentes
 
-<sub>La parte visual debe acompañar al producto: menos fricción, mejor jerarquía y una experiencia consistente.</sub>
+<sub>Diseño pensado para que el usuario entienda rápido, navegue mejor y complete sus tareas sin fricción.</sub>
 
 <p>
-  <img src="https://img.shields.io/badge/Responsive-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/UX-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Accesibilidad-22C55E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Rendimiento-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Responsive-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UX-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Accesibilidad-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rendimiento-F59E0B?style=for-the-badge" />
 </p>
 
 </div>
 
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="25%" align="center" valign="top">
 
-<div align="center">
+### 📱 Responsive
+<sub>Móvil · Tablet · Escritorio</sub>
 
-### 📱 Diseño responsive
-<sub>Móvil · tablet · escritorio</sub>
+<img src="https://img.shields.io/badge/Layout-Adaptable-2563EB?style=flat-square" />
 
-<br><br>
-
-Interfaces que aprovechan el espacio y evitan scrolls innecesarios.
-
-</div>
+<sub>Diseños que aprovechan mejor el espacio y evitan scroll innecesario.</sub>
 
 </td>
+<td width="25%" align="center" valign="top">
 
-<td width="50%" align="center" valign="middle">
+### 🧩 UX
+<sub>Flujos · Estados · Feedback</sub>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Experiencia-Clara-7C3AED?style=flat-square" />
 
-### 🧩 Experiencia de usuario
-<sub>Flujos · estados · feedback</sub>
-
-<br><br>
-
-Acciones claras, menos pasos y respuestas visuales comprensibles.
-
-</div>
+<sub>Menos pasos, acciones evidentes y respuestas visuales comprensibles.</sub>
 
 </td>
-</tr>
-
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<div align="center">
+<td width="25%" align="center" valign="top">
 
 ### ♿ Accesibilidad
-<sub>Contraste · jerarquía · navegación</sub>
+<sub>Contraste · Jerarquía · Navegación</sub>
 
-<br><br>
+<img src="https://img.shields.io/badge/Contenido-Legible-22C55E?style=flat-square" />
 
-Contenido legible y estructuras fáciles de recorrer y comprender.
-
-</div>
+<sub>Interfaces fáciles de leer, recorrer y comprender.</sub>
 
 </td>
-
-<td width="50%" align="center" valign="middle">
-
-<div align="center">
+<td width="25%" align="center" valign="top">
 
 ### ⚡ Rendimiento
-<sub>Componentes · carga · reutilización</sub>
+<sub>Carga · Reutilización · Escalabilidad</sub>
 
-<br><br>
+<img src="https://img.shields.io/badge/UI-Eficiente-F59E0B?style=flat-square" />
 
-Interfaces eficientes, reutilizables y preparadas para crecer.
-
-</div>
+<sub>Componentes ligeros, reutilizables y preparados para crecer.</sub>
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <b>Objetivo:</b> que cada pantalla ayude al usuario a completar su tarea con claridad y rapidez.
-</p>
+<div align="center">
+
+**Objetivo:** crear interfaces atractivas, rápidas y fáciles de usar.
+
+</div>
 
 
 ---
