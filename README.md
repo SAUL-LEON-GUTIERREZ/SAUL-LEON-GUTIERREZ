@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:081C2F,42:0B3558,72:006BB6,100:008DE5&text=Saul%20Alex%20Leon%20Gutierrez&fontColor=FFFFFF&fontSize=34&fontAlignY=37&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Full%20Stack%20Developer&descAlignY=57&descSize=18" alt="Saul Alex Leon Gutierrez" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:2A3B47,38:007BDF,72:1292EE,100:00CBFF&text=Saul%20Alex%20Leon%20Gutierrez&fontColor=FFFFFF&fontSize=34&fontAlignY=37&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Full%20Stack%20Developer&descAlignY=57&descSize=18" alt="Saul Alex Leon Gutierrez" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=1292EE&center=true&vCenter=true&width=760&lines=Full+Stack+con+Laravel+y+React;APIs+REST+y+sistemas+empresariales;Interfaces+claras+y+responsive;Software+para+resolver+problemas+reales" alt="Presentación animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=007BDF&center=true&vCenter=true&width=760&lines=Full+Stack+con+Laravel+y+React;APIs+REST+y+sistemas+empresariales;Interfaces+claras+y+responsive;Software+para+resolver+problemas+reales" alt="Presentación animada" />
 
 <p>
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-2A3B47?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer" />
@@ -25,7 +25,14 @@
 
 </div>
 
-<p align="center"><img width="88%" src="./assets/section-about.svg" alt="Sobre mí" /></p>
+<div align="center">
+
+## 👋 Sobre mí
+<sub><b>Ingeniería de Sistemas · Producto digital · Soluciones web completas</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
+
+</div>
 
 <div align="center">
 
@@ -73,7 +80,14 @@ Responsive · UX · Componentes reutilizables
 
 <p align="center"><b>Objetivo:</b> transformar procesos reales en software útil, mantenible y preparado para evolucionar.</p>
 
-<p align="center"><img width="88%" src="./assets/section-stack.svg" alt="Pila tecnológica" /></p>
+<div align="center">
+
+## ⚡ Pila tecnológica
+<sub><b>Herramientas con las que construyo productos web</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
+
+</div>
 
 <div align="center">
 
@@ -134,7 +148,14 @@ Responsive · UX · Componentes reutilizables
 </tr>
 </table>
 
-<p align="center"><img width="88%" src="./assets/section-ui.svg" alt="Cuidado de interfaz" /></p>
+<div align="center">
+
+## ✨ Cuidado de interfaz
+<sub><b>Responsive · UX · Accesibilidad · Rendimiento</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
+
+</div>
 
 <table width="100%" align="center">
 <tr>
@@ -173,7 +194,14 @@ Responsive · UX · Componentes reutilizables
 
 <p align="center"><b>Objetivo:</b> interfaces atractivas, rápidas y fáciles de usar.</p>
 
-<p align="center"><img width="88%" src="./assets/section-projects.svg" alt="Proyectos destacados" /></p>
+<div align="center">
+
+## 🚀 Proyectos destacados
+<sub><b>Sistemas construidos alrededor de problemas reales</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
+
+</div>
 
 <table width="100%" align="center">
 <tr>
@@ -266,7 +294,14 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 </tr>
 </table>
 
-<p align="center"><img width="88%" src="./assets/section-process.svg" alt="Cómo construyo software" /></p>
+<div align="center">
+
+## 🧭 Mi forma de construir software
+<sub><b>Entender · Modelar · Diseñar · Construir · Validar · Evolucionar</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
+
+</div>
 
 <div align="center">
 
@@ -287,7 +322,14 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 
 </div>
 
-<p align="center"><img width="88%" src="./assets/section-quality.svg" alt="Calidad técnica" /></p>
+<div align="center">
+
+## 🛡️ Calidad técnica
+<sub><b>Pruebas · Seguridad · Datos · Entrega</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
+
+</div>
 
 <table width="100%" align="center">
 <tr>
@@ -331,7 +373,14 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
   <img src="https://img.shields.io/badge/SaaS-Multi--tenant-00BFF0?style=flat-square" />
 </p>
 
-<p align="center"><img width="88%" src="./assets/section-career.svg" alt="Enfoque profesional" /></p>
+<div align="center">
+
+## 🎯 Enfoque profesional
+<sub><b>Full Stack · APIs · Sistemas empresariales · Producto</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
+
+</div>
 
 <div align="center">
 
@@ -374,7 +423,14 @@ Proyectos freelance
 
 <p align="center"><b>Busco aportar en productos donde el software tenga impacto directo en la operación y pueda evolucionar con el negocio.</b></p>
 
-<p align="center"><img width="88%" src="./assets/section-contact.svg" alt="Contacto directo" /></p>
+<div align="center">
+
+## 📬 Contacto directo
+<sub><b>Oportunidades · Colaboraciones · Proyectos</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
+
+</div>
 
 <div align="center">
 
@@ -407,6 +463,6 @@ Proyectos freelance
 
 ### <code>Código claro · Interfaces útiles · Software preparado para evolucionar</code>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:00CBFF,45:1292EE,72:007BDF,100:2A3B47" alt="Pie visual del perfil" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:00CBFF,35:1292EE,68:007BDF,100:2A3B47" alt="Pie visual del perfil" />
 
 </div>
