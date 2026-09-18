@@ -565,31 +565,31 @@ Proyectos freelance
 
 <p>
   <a href="https://wa.me/51903434968?text=Hola%20Saul%2C%20vi%20tu%20perfil%20de%20GitHub%20y%20quiero%20conversar%20contigo.">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B51%20903%20434%20968-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-Escribirme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:saulalexleongutierrez@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-saulalexleongutierrez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+    <img src="https://img.shields.io/badge/Correo-Enviar%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
   <a href="https://github.com/SAUL-LEON-GUTIERREZ">
-    <img src="https://img.shields.io/badge/GitHub-SAUL--LEON--GUTIERREZ-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Ver%20perfil-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<br>
+<p>
+  <b>WhatsApp:</b> +51 903 434 968<br>
+  <b>Correo:</b> <a href="mailto:saulalexleongutierrez@gmail.com">saulalexleongutierrez@gmail.com</a>
+</p>
 
-**WhatsApp:** +51 903 434 968  
-**Correo:** saulalexleongutierrez@gmail.com
-
-<sub>Perú · disponible para oportunidades remotas, híbridas y proyectos.</sub>
+<sub>Perú · disponible para oportunidades remotas, híbridas y proyectos freelance.</sub>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=760&lines=Código+claro.;Interfaces+útiles.;Reglas+de+negocio+explícitas.;Software+preparado+para+evolucionar." alt="Principios de desarrollo" />
+### <code>Código claro · Interfaces útiles · Software preparado para evolucionar</code>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:06B6D4,52:7C3AED,100:0F172A" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:06B6D4,52:7C3AED,100:0F172A" alt="Pie visual del perfil" />
 
 </div>
