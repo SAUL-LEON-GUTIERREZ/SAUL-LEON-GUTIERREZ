@@ -434,53 +434,42 @@ Proyectos freelance
 
 <br>
 
-<p>
-  <a href="https://wa.me/51903434968?text=Hola%20Saul%2C%20vi%20tu%20perfil%20de%20GitHub%20y%20quiero%20conversar%20contigo.">
-    <img src="https://img.shields.io/badge/WhatsApp-Escribirme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:saulalexleongutierrez@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-Enviar%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
-  </a>
-  <a href="https://github.com/SAUL-LEON-GUTIERREZ">
-    <img src="https://img.shields.io/badge/GitHub-Ver%20perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<br>
-
-<table width="72%" align="center">
-<tr>
-<td align="center" valign="middle">
-<div align="center">
-
-<h3>Hablemos</h3>
-
-<b>WhatsApp:</b> <a href="https://wa.me/51903434968">+51 903 434 968</a><br>
-<b>Correo:</b> <a href="mailto:saulalexleongutierrez@gmail.com">saulalexleongutierrez@gmail.com</a>
+<a href="https://wa.me/51903434968?text=Hola%20Saul%2C%20vi%20tu%20perfil%20de%20GitHub%20y%20quiero%20conversar%20contigo.">
+  <img src="https://img.shields.io/badge/WhatsApp-Hablemos%20ahora-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Hablemos por WhatsApp" />
+</a>
 
 <br><br>
 
-<sub>Perú · disponible para oportunidades remotas, híbridas y proyectos freelance.</sub>
+<a href="mailto:saulalexleongutierrez@gmail.com">
+  <img src="https://img.shields.io/badge/Correo-Enviar%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo" />
+</a>
+<a href="https://github.com/SAUL-LEON-GUTIERREZ">
+  <img src="https://img.shields.io/badge/GitHub-Ver%20perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver GitHub" />
+</a>
 
-</div>
-</td>
-</tr>
-</table>
+<br><br>
+
+### Hablemos
+
+📱 <b>WhatsApp:</b> <a href="https://wa.me/51903434968">+51 903 434 968</a><br>
+✉️ <b>Correo:</b> <a href="mailto:saulalexleongutierrez@gmail.com">saulalexleongutierrez@gmail.com</a>
 
 <br>
 
-<img width="60%" src="./assets/section-accent.svg" alt="" />
+🌎 <sub>Perú · disponible para oportunidades remotas, híbridas y proyectos freelance.</sub>
+
+<br><br>
+
+<img width="58%" src="./assets/section-accent.svg" alt="" />
 
 <br>
 
 <p>
   <img src="https://img.shields.io/badge/Código%20claro-2A3B47?style=for-the-badge" alt="Código claro" />
   <img src="https://img.shields.io/badge/Interfaces%20útiles-007BDF?style=for-the-badge" alt="Interfaces útiles" />
-  <img src="https://img.shields.io/badge/Software%20preparado%20para%20evolucionar-1292EE?style=for-the-badge" alt="Software preparado para evolucionar" />
+  <img src="https://img.shields.io/badge/Software%20preparado-1292EE?style=for-the-badge" alt="Software preparado" />
 </p>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2A3B47,35:007BDF,70:1292EE,100:00CBFF" alt="Pie visual del perfil" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2A3B47,35:007BDF,70:1292EE,100:00CBFF" alt="Pie visual del perfil" />
 
 </div>
