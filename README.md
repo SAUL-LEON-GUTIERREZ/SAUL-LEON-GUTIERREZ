@@ -592,25 +592,234 @@ Una funcionalidad no está terminada solo porque “funciona en mi máquina”.
 
 ## 🧪 Calidad técnica
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Arquitectura-Laravel-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APIs-REST-06B6D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pruebas-Automatizadas-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seguridad-Web-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2563EB?style=for-the-badge" />
-</p>
+<div align="center">
 
-Actualmente sigo profundizando en:
+### Construir no termina cuando compila
 
-<code>Arquitectura Laravel</code> ·
-<code>Testing</code> ·
-<code>Seguridad</code> ·
-<code>CI/CD</code> ·
-<code>Despliegue</code> ·
-<code>Observabilidad</code> ·
-<code>Rendimiento</code> ·
-<code>SaaS</code> ·
-<code>Multi-tenant</code>
+<sub>Busco reducir fallos, proteger datos y hacer que cada cambio sea verificable antes de llegar a producción.</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pruebas-Validar%20comportamiento-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seguridad-Reducir%20riesgo-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Datos-Mantener%20consistencia-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Entrega-Hacer%20cambios%20seguros-7C3AED?style=for-the-badge" />
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Pruebas y regresión
+
+**Objetivo:** comprobar comportamiento antes de confiar en él.
+
+**Aplico**
+- pruebas de backend en flujos críticos;
+- bases de datos aisladas para testing;
+- validación de permisos;
+- casos límite;
+- comprobación de errores esperados;
+- verificación de regresiones.
+
+**Busco**
+> que un cambio nuevo no rompa silenciosamente una regla existente.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Seguridad de aplicación
+
+**Objetivo:** reducir exposición y limitar acciones no autorizadas.
+
+**Aplico**
+- autenticación;
+- autorización por roles;
+- policies y middleware;
+- validación de entradas;
+- protección de rutas;
+- separación de configuración sensible.
+
+**Busco**
+> que cada usuario pueda acceder únicamente a lo que le corresponde.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Integridad de datos
+
+**Objetivo:** mantener información coherente incluso cuando algo falla.
+
+**Aplico**
+- claves y relaciones;
+- migraciones;
+- validaciones de negocio;
+- transacciones cuando corresponde;
+- control de stock;
+- estados explícitos.
+
+**Busco**
+> que la base de datos sea una fuente confiable de verdad.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Rendimiento
+
+**Objetivo:** evitar trabajo innecesario en puntos sensibles.
+
+**Reviso**
+- consultas;
+- carga de datos;
+- paginación;
+- componentes;
+- tamaño de respuesta;
+- procesos repetitivos.
+
+**Busco**
+> optimizar con evidencia antes de introducir complejidad prematura.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Entrega y despliegue
+
+**Objetivo:** reducir diferencias entre desarrollo y producción.
+
+**Cuido**
+- variables de entorno;
+- secretos fuera del repositorio;
+- builds reproducibles;
+- migraciones controladas;
+- configuración por ambiente;
+- pasos de despliegue documentados.
+
+**Busco**
+> que publicar una versión sea un proceso repetible y no una improvisación.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 Observabilidad y soporte
+
+**Objetivo:** poder entender qué ocurrió cuando algo falla.
+
+**Considero**
+- logs útiles;
+- errores accionables;
+- trazabilidad;
+- métricas relevantes;
+- respaldos;
+- recuperación.
+
+**Busco**
+> diagnosticar problemas con información y no solo con suposiciones.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🛡️ Puertas de calidad antes de liberar
+
+~~~text
+Código
+  ↓
+Validación estática / lint
+  ↓
+Pruebas
+  ↓
+Revisión de permisos y datos
+  ↓
+Build
+  ↓
+Configuración de entorno
+  ↓
+Despliegue
+  ↓
+Verificación post-release
+~~~
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 01
+**Código**
+<br>
+<sub>claridad y consistencia</sub>
+
+</td>
+<td width="25%" align="center">
+
+### 02
+**Pruebas**
+<br>
+<sub>comportamiento crítico</sub>
+
+</td>
+<td width="25%" align="center">
+
+### 03
+**Seguridad**
+<br>
+<sub>accesos y secretos</sub>
+
+</td>
+<td width="25%" align="center">
+
+### 04
+**Release**
+<br>
+<sub>build y verificación</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### ✅ Checklist que intento cumplir antes de una entrega
+
+- [x] el flujo principal funciona;
+- [x] entradas y permisos están validados;
+- [x] los errores importantes tienen tratamiento;
+- [x] no se versionan secretos ni archivos sensibles;
+- [x] las migraciones son controladas;
+- [x] los datos críticos mantienen consistencia;
+- [x] existe una forma de comprobar el cambio;
+- [x] el build termina correctamente;
+- [x] la configuración depende del entorno y no del código;
+- [x] la documentación refleja el estado real del proyecto.
+
+<br>
+
+### 📈 Áreas que sigo fortaleciendo
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Observabilidad-Logs%20%2B%20Métricas-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Performance-Medición-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seguridad-Hardening-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SaaS-Multi--tenant-EC4899?style=for-the-badge" />
+
+</div>
+
+<br>
+
+> **Mi enfoque:** la calidad no es una etapa final; es una restricción que acompaña diseño, desarrollo, pruebas y operación.
+
 
 ---
 
