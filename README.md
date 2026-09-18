@@ -33,7 +33,11 @@
 <div align="center">
 
 ## 👋 Sobre mí
-<sub>Perfil profesional, stack principal y enfoque en soluciones web.</sub>
+<img src="https://img.shields.io/badge/PERFIL-FULL%20STACK-7C3AED?style=flat-square&logo=react&logoColor=white" alt="Perfil Full Stack" />
+
+<sub><b>Ingeniería de Sistemas · Producto digital · Soluciones web completas</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
 
 </div>
 
@@ -91,7 +95,11 @@ Interfaces claras, responsive y orientadas al usuario.
 <div align="center">
 
 ## ⚡ Pila tecnológica
-<sub>Tecnologías y herramientas con las que construyo productos web.</sub>
+<img src="https://img.shields.io/badge/STACK-TECNOLOGÍAS%20PRINCIPALES-06B6D4?style=flat-square" alt="Stack tecnológico" />
+
+<sub><b>Laravel · React · Next.js · TypeScript · MySQL · herramientas de entrega</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
 
 </div>
 
@@ -195,7 +203,11 @@ Interfaces claras, responsive y orientadas al usuario.
 <div align="center">
 
 ## ✨ Cuidado de interfaz
-<sub>Diseño de experiencias claras, ágiles y fáciles de usar.</sub>
+<img src="https://img.shields.io/badge/UI%20%2F%20UX-EXPERIENCIA%20DE%20USUARIO-2563EB?style=flat-square" alt="UI UX" />
+
+<sub><b>Responsive · UX · Accesibilidad · Rendimiento</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
 
 </div>
 
@@ -271,7 +283,11 @@ Interfaces claras, responsive y orientadas al usuario.
 <div align="center">
 
 ## 🚀 Proyectos destacados
-<sub>Soluciones construidas alrededor de problemas reales.</sub>
+<img src="https://img.shields.io/badge/PORTAFOLIO-SOLUCIONES%20REALES-8B5CF6?style=flat-square" alt="Portafolio" />
+
+<sub><b>Educación · Comercio · Delivery · Restaurantes · Producto digital</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
 
 </div>
 
@@ -410,7 +426,11 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 <div align="center">
 
 ## 🧭 Mi forma de construir software
-<sub>Proceso de trabajo orientado a claridad, calidad y evolución.</sub>
+<img src="https://img.shields.io/badge/PROCESO-INGENIERÍA%20DE%20SOFTWARE-4F46E5?style=flat-square" alt="Proceso de ingeniería" />
+
+<sub><b>Entender · Diseñar · Construir · Validar · Evolucionar</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
 
 </div>
 
@@ -478,7 +498,11 @@ Medir, corregir y mejorar sin romper lo existente.
 <div align="center">
 
 ## 🧪 Calidad técnica
-<sub>Pruebas, seguridad, consistencia de datos y entrega controlada.</sub>
+<img src="https://img.shields.io/badge/CALIDAD-PRUEBAS%20%7C%20SEGURIDAD%20%7C%20DATOS-22C55E?style=flat-square" alt="Calidad técnica" />
+
+<sub><b>Pruebas · Seguridad · Consistencia de datos · Entrega controlada</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
 
 </div>
 
@@ -532,7 +556,11 @@ Entornos, secretos, build y despliegue.
 <div align="center">
 
 ## 💼 Enfoque profesional
-<sub>Áreas donde puedo aportar con mayor impacto.</sub>
+<img src="https://img.shields.io/badge/CARRERA-FULL%20STACK%20DEVELOPER-F59E0B?style=flat-square" alt="Enfoque profesional" />
+
+<sub><b>Full Stack · APIs · Sistemas empresariales · Producto</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
 
 </div>
 
@@ -600,7 +628,11 @@ Proyectos freelance
 <div align="center">
 
 ## 📬 Contacto directo
-<sub>Disponible para oportunidades, colaboraciones y proyectos.</sub>
+<img src="https://img.shields.io/badge/CONTACTO-OPORTUNIDADES%20Y%20PROYECTOS-EA4335?style=flat-square" alt="Contacto directo" />
+
+<sub><b>Oportunidades · Colaboraciones · Proyectos freelance</b></sub>
+
+<img width="72%" src="./assets/section-accent.svg" alt="" />
 
 </div>
 
