@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:2A3B47,38:007BDF,72:1292EE,100:00CBFF&text=Saul%20Alex%20Leon%20Gutierrez&fontColor=FFFFFF&fontSize=34&fontAlignY=37&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Full%20Stack%20Developer&descAlignY=57&descSize=18" alt="Saul Alex Leon Gutierrez" />
+<img width="100%" src="./assets/hero-dark-edteam.svg" alt="Saul Alex Leon Gutierrez · Ingeniero de Sistemas · Full Stack Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=007BDF&center=true&vCenter=true&width=760&lines=Full+Stack+con+Laravel+y+React;APIs+REST+y+sistemas+empresariales;Interfaces+claras+y+responsive;Software+para+resolver+problemas+reales" alt="Presentación animada" />
 
