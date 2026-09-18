@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,32:1E1B4B,64:7C3AED,100:06B6D4&text=Saul%20Alex%20Leon%20Gutierrez&fontColor=FFFFFF&fontSize=34&fontAlignY=37&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Full%20Stack%20Developer&descAlignY=57&descSize=18" alt="Saul Alex Leon Gutierrez" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1220,35:1E293B,68:334155,100:4F46E5&text=Saul%20Alex%20Leon%20Gutierrez&fontColor=FFFFFF&fontSize=34&fontAlignY=37&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Full%20Stack%20Developer&descAlignY=57&descSize=18" alt="Saul Alex Leon Gutierrez" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=06B6D4&center=true&vCenter=true&width=760&lines=Full+Stack+con+Laravel+y+React;APIs+REST+y+sistemas+empresariales;Interfaces+modernas+y+responsive;Software+para+resolver+problemas+reales" alt="Presentación animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=4F46E5&center=true&vCenter=true&width=760&lines=Full+Stack+con+Laravel+y+React;APIs+REST+y+sistemas+empresariales;Interfaces+modernas+y+responsive;Software+para+resolver+problemas+reales" alt="Presentación animada" />
 
 <p>
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/Stack-Laravel%20%2B%20React-2563EB?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel y React" />
-  <img src="https://img.shields.io/badge/Ubicación-Perú-0F172A?style=for-the-badge" alt="Perú" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-334155?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Stack-Laravel%20%2B%20React-4F46E5?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel y React" />
+  <img src="https://img.shields.io/badge/Ubicación-Perú-0B1220?style=for-the-badge" alt="Perú" />
 </p>
 
 <p>
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=SAUL-LEON-GUTIERREZ&label=Visitas%20al%20perfil&color=7C3AED&style=flat-square" alt="Visitas al perfil" />
+<img src="https://komarev.com/ghpvc/?username=SAUL-LEON-GUTIERREZ&label=Visitas%20al%20perfil&color=334155&style=flat-square" alt="Visitas al perfil" />
 
 </div>
 
@@ -86,10 +86,10 @@ Responsive · UX · Componentes reutilizables
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,nextjs,ts,tailwind,js,git,github,docker,postman,vite,supabase,flutter&perline=8" alt="Pila tecnológica" />
 
 <p>
-  <img src="https://img.shields.io/badge/Full%20Stack-Laravel%20%2B%20React-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/APIs-REST-06B6D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/UI-Responsive-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Datos-Relacionales-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Laravel%20%2B%20React-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/APIs-REST-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/UI-Responsive-4F46E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Datos-Relacionales-64748B?style=flat-square" />
 </p>
 
 </div>
@@ -168,14 +168,14 @@ Responsive · UX · Componentes reutilizables
 <td width="50%" align="center" valign="middle">
 
 ### 📱 Responsive
-<img src="https://img.shields.io/badge/Layout-Adaptable-2563EB?style=flat-square" /><br>
+<img src="https://img.shields.io/badge/Layout-Adaptable-4F46E5?style=flat-square" /><br>
 <sub>Móvil · tablet · escritorio · menos scroll innecesario</sub>
 
 </td>
 <td width="50%" align="center" valign="middle">
 
 ### 🧩 UX
-<img src="https://img.shields.io/badge/Flujos-Claros-7C3AED?style=flat-square" /><br>
+<img src="https://img.shields.io/badge/Flujos-Claros-334155?style=flat-square" /><br>
 <sub>Menos pasos · estados comprensibles · feedback visual</sub>
 
 </td>
@@ -184,14 +184,14 @@ Responsive · UX · Componentes reutilizables
 <td width="50%" align="center" valign="middle">
 
 ### ♿ Accesibilidad
-<img src="https://img.shields.io/badge/Contenido-Legible-22C55E?style=flat-square" /><br>
+<img src="https://img.shields.io/badge/Contenido-Legible-475569?style=flat-square" /><br>
 <sub>Contraste · jerarquía · navegación comprensible</sub>
 
 </td>
 <td width="50%" align="center" valign="middle">
 
 ### ⚡ Rendimiento
-<img src="https://img.shields.io/badge/UI-Eficiente-F59E0B?style=flat-square" /><br>
+<img src="https://img.shields.io/badge/UI-Eficiente-64748B?style=flat-square" /><br>
 <sub>Carga eficiente · reutilización · crecimiento sostenible</sub>
 
 </td>
@@ -210,10 +210,10 @@ Responsive · UX · Componentes reutilizables
 <img width="72%" src="./assets/section-accent.svg" alt="" />
 
 <p>
-  <img src="https://img.shields.io/badge/Educación-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Comercio-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Delivery-F59E0B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Producto%20digital-06B6D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Educación-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/Comercio-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Delivery-4F46E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Producto%20digital-64748B?style=flat-square" />
 </p>
 
 </div>
@@ -235,7 +235,7 @@ Asistencia, matrículas, roles, reportes y portal institucional.
 <sub><code>QR</code> · <code>Roles</code> · <code>Reportes</code> · <code>Multi-tenant</code></sub>
 
 <p>
-  <img src="https://img.shields.io/badge/●-Activo-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/●-Activo-0F766E?style=flat-square" />
   <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
 </p>
 
@@ -255,7 +255,7 @@ Ventas, caja, inventario, compras, clientes y control por IMEI.
 <sub><code>POS</code> · <code>IMEI</code> · <code>Kardex</code> · <code>Dashboard</code></sub>
 
 <p>
-  <img src="https://img.shields.io/badge/●-Activo-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/●-Activo-0F766E?style=flat-square" />
   <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
 </p>
 
@@ -277,7 +277,7 @@ Pedidos, cobertura, stock y flujo entre cliente, negocio y repartidor.
 <sub><code>Pedidos</code> · <code>Cobertura</code> · <code>Stock</code> · <code>Reparto</code></sub>
 
 <p>
-  <img src="https://img.shields.io/badge/●-En%20evolución-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/●-En%20evolución-475569?style=flat-square" />
   <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
 </p>
 
@@ -297,7 +297,7 @@ Catálogo, categorías, promociones y carrito responsive.
 <sub><code>Catálogo</code> · <code>Carrito</code> · <code>Responsive</code> · <code>Supabase</code></sub>
 
 <p>
-  <img src="https://img.shields.io/badge/●-En%20evolución-06B6D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/●-En%20evolución-475569?style=flat-square" />
   <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
 </p>
 
@@ -323,7 +323,7 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 <sub><code>Next.js</code> · <code>SEO</code> · <code>Responsive UI</code> · <code>Componentes</code></sub>
 
 <p>
-  <img src="https://img.shields.io/badge/●-En%20preparación-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/●-En%20preparación-64748B?style=flat-square" />
   <img src="https://img.shields.io/badge/Código-Privado%20temporalmente-64748B?style=flat-square" />
 </p>
 
@@ -341,12 +341,12 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 <img width="72%" src="./assets/section-accent.svg" alt="" />
 
 <p>
-  <img src="https://img.shields.io/badge/01-Entender-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/02-Modelar-4F46E5?style=flat-square" />
-  <img src="https://img.shields.io/badge/03-Diseñar-06B6D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/04-Construir-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/05-Validar-22C55E?style=flat-square" />
-  <img src="https://img.shields.io/badge/06-Evolucionar-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/01-Entender-0B1220?style=flat-square" />
+  <img src="https://img.shields.io/badge/02-Modelar-1E293B?style=flat-square" />
+  <img src="https://img.shields.io/badge/03-Diseñar-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/04-Construir-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/05-Validar-4F46E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/06-Evolucionar-2563EB?style=flat-square" />
 </p>
 
 </div>
@@ -411,10 +411,10 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 <p align="center"><b>Antes de liberar:</b> código claro · permisos validados · datos consistentes · build correcto · secretos fuera del repositorio.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/En%20fortalecimiento-CI%2FCD-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Observabilidad-Logs%20%2B%20Métricas-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Performance-Medición-06B6D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/SaaS-Multi--tenant-EC4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/En%20fortalecimiento-CI%2FCD-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/Observabilidad-Logs%20%2B%20Métricas-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Performance-Medición-4F46E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/SaaS-Multi--tenant-64748B?style=flat-square" />
 </p>
 
 ---
@@ -427,9 +427,9 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 <img width="72%" src="./assets/section-accent.svg" alt="" />
 
 <p>
-  <img src="https://img.shields.io/badge/Full%20Stack-Laravel%20%2B%20React-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-REST-06B6D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sistemas-Empresariales-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Laravel%20%2B%20React-334155?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-REST-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sistemas-Empresariales-475569?style=for-the-badge" />
 </p>
 
 </div>
@@ -495,6 +495,6 @@ Proyectos freelance
 
 ### <code>Código claro · Interfaces útiles · Software preparado para evolucionar</code>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,52:7C3AED,100:0F172A" alt="Pie visual del perfil" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:4F46E5,52:334155,100:0B1220" alt="Pie visual del perfil" />
 
 </div>
