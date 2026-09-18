@@ -386,33 +386,207 @@ Portafolio profesional y sitio de servicios de software, diseñado para presenta
 
 <div align="center">
 
-~~~text
-Entender el problema
-        ↓
-Modelar las reglas de negocio
-        ↓
-Diseñar datos y contratos de API
-        ↓
-Construir un flujo confiable
-        ↓
-Probar escenarios reales
-        ↓
-Medir, corregir y evolucionar
-~~~
+### Del problema al producto, con decisiones técnicas explícitas
+
+<sub>No empiezo por el framework. Empiezo por entender el proceso, los riesgos y las reglas del negocio.</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/01-Descubrir-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-Modelar-4F46E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/03-Diseñar-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/04-Construir-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/05-Validar-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/06-Evolucionar-F59E0B?style=for-the-badge" />
 
 </div>
 
+<br>
+
+~~~mermaid
+flowchart LR
+    A["🔎 Entender<br/>objetivo y contexto"] --> B["🧠 Modelar<br/>reglas y datos"]
+    B --> C["🏗️ Diseñar<br/>arquitectura y contratos"]
+    C --> D["💻 Construir<br/>flujo vertical"]
+    D --> E["🧪 Validar<br/>calidad y riesgos"]
+    E --> F["🚀 Operar<br/>medir y evolucionar"]
+    F -. aprendizaje .-> A
+~~~
+
+<br>
+
 <table>
 <tr>
-<td align="center" width="20%"><b>01</b><br><sub>Entender</sub></td>
-<td align="center" width="20%"><b>02</b><br><sub>Modelar</sub></td>
-<td align="center" width="20%"><b>03</b><br><sub>Diseñar</sub></td>
-<td align="center" width="20%"><b>04</b><br><sub>Construir</sub></td>
-<td align="center" width="20%"><b>05</b><br><sub>Validar e iterar</sub></td>
+<td width="50%" valign="top">
+
+### 01 · 🔎 Descubrimiento
+
+**Objetivo:** comprender el problema antes de proponer tecnología.
+
+**Analizo**
+- usuarios y actores;
+- proceso actual;
+- cuellos de botella;
+- datos involucrados;
+- restricciones;
+- escenarios críticos.
+
+**Resultado**
+> alcance claro, prioridades y criterios de aceptación.
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · 🧠 Modelado del dominio
+
+**Objetivo:** convertir el proceso real en reglas explícitas.
+
+**Defino**
+- entidades y relaciones;
+- estados y transiciones;
+- permisos;
+- invariantes;
+- casos límite;
+- fuentes de verdad.
+
+**Resultado**
+> modelo de datos y reglas que representan el negocio.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03 · 🏗️ Diseño técnico
+
+**Objetivo:** decidir cómo dividir responsabilidades sin sobrearquitectura.
+
+**Diseño**
+- límites entre módulos;
+- contratos de API;
+- autenticación y autorización;
+- persistencia;
+- manejo de errores;
+- estrategia de integración.
+
+**Resultado**
+> arquitectura suficiente para crecer sin complejidad innecesaria.
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · 💻 Implementación incremental
+
+**Objetivo:** entregar valor verificable desde temprano.
+
+**Construyo**
+- flujos verticales completos;
+- componentes reutilizables;
+- validaciones;
+- políticas y permisos;
+- transacciones cuando aplica;
+- estados de carga, error y éxito.
+
+**Resultado**
+> funcionalidad utilizable, no solo código aislado.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 05 · 🧪 Validación y endurecimiento
+
+**Objetivo:** comprobar comportamiento, seguridad y consistencia.
+
+**Verifico**
+- pruebas automatizadas;
+- permisos y accesos;
+- integridad de datos;
+- errores esperados;
+- regresiones;
+- rendimiento en puntos sensibles.
+
+**Resultado**
+> una versión candidata a liberación con riesgos conocidos.
+
+</td>
+<td width="50%" valign="top">
+
+### 06 · 🚀 Operación y evolución
+
+**Objetivo:** aprender del uso real y mejorar sin romper lo existente.
+
+**Reviso**
+- configuración de entorno;
+- logs y fallos;
+- backups;
+- métricas relevantes;
+- deuda técnica;
+- nuevas necesidades.
+
+**Resultado**
+> software que puede evolucionar con evidencia, no por intuición.
+
+</td>
 </tr>
 </table>
 
-> Prefiero reglas explícitas, componentes reutilizables y funcionalidades verificadas antes que una lista extensa de características que todavía no existen.
+<br>
+
+### 🛡️ Principios que guían mis decisiones
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Simplicidad-Antes%20que%20complejidad-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Seguridad-Desde%20el%20diseño-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Datos-Una%20fuente%20de%20verdad-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pruebas-En%20puntos%20de%20riesgo-06B6D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Entrega-Iterativa-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Arquitectura-Sin%20sobreingeniería-64748B?style=flat-square" />
+</p>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎯 Claridad
+Prefiero reglas explícitas, nombres claros y responsabilidades bien delimitadas.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Seguridad
+Autenticación, autorización y validación forman parte del diseño, no del final.
+
+</td>
+<td width="33%" valign="top">
+
+### 🧩 Evolución
+Diseño para cambiar lo necesario sin tener que reconstruir todo el sistema.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### ✅ Mi definición de “terminado”
+
+Una funcionalidad no está terminada solo porque “funciona en mi máquina”.
+
+- [x] cumple el criterio funcional;
+- [x] valida entradas y permisos;
+- [x] contempla estados de error;
+- [x] mantiene consistencia de datos;
+- [x] tiene pruebas donde existe riesgo relevante;
+- [x] no expone secretos ni configuración sensible;
+- [x] puede desplegarse sin pasos improvisados;
+- [x] deja documentación suficiente para mantenerla.
+
+> **Mi criterio:** construir la solución más simple que resuelva bien el problema actual y deje espacio para evolucionar cuando exista una necesidad real.
+
 
 ---
 
