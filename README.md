@@ -1,224 +1,329 @@
 <div align="center">
 
-# Saul Alex Leon Gutierrez
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,35:4F46E5,70:7C3AED,100:06B6D4&text=Saul%20Alex%20Leon%20Gutierrez&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%2F%20Full%20Stack&descAlignY=58&descSize=18" alt="Saul Alex Leon Gutierrez" />
 
-### Software Engineer · Backend / Full Stack
+### Construyo software para operaciones reales
 
-I build web systems for real operational workflows:  
-**sales · inventory · attendance · orders · reporting · multi-user platforms**
+**Laravel · APIs · React · Next.js · SQL · Sistemas empresariales**
 
-[Portfolio](https://leongutierrez.studio) ·
-[GitHub](https://github.com/SAUL-LEON-GUTIERREZ) ·
-[Email](mailto:saulalexleongutierrez@gmail.com)
-
-</div>
-
----
-
-## Engineering Profile
-
-Systems and Informatics Engineer focused on **backend engineering with PHP/Laravel** and full-stack product development.
-
-I work on applications where business rules matter: authentication, authorization, transactional workflows, inventory, reporting, multi-role access, APIs and integration with modern frontends.
-
-My current engineering focus is on building systems that are:
-
-- maintainable and modular;
-- secure by default;
-- explicit about business rules;
-- testable;
-- ready to evolve without rewriting the whole product.
-
----
-
-## Core Stack
-
-<div align="left">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-111827)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+<p>
+  <a href="https://leongutierrez.studio">
+    <img src="https://img.shields.io/badge/PORTAFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/SAUL-LEON-GUTIERREZ">
+    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:saulalexleongutierrez@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACTO-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
-**Backend:** PHP · Laravel · Sanctum · Eloquent · REST APIs  
-**Frontend:** React · Next.js · TypeScript · JavaScript · Livewire · Alpine.js  
-**Data:** MySQL · SQLite · relational modeling  
-**Tooling:** Git · GitHub · Docker · Laravel Sail · Postman · Vite  
-**Additional:** Filament · Supabase · Flutter · Chart.js
+---
+
+## 👨‍💻 Perfil
+
+Soy **Ingeniero de Sistemas e Informática** enfocado en desarrollo **Backend / Full Stack**.
+
+Trabajo principalmente con **PHP y Laravel**, diseñando APIs, reglas de negocio, autenticación, roles, flujos transaccionales, inventarios, reportes y sistemas multiusuario. Complemento el backend con **React, Next.js y TypeScript** cuando el producto requiere una experiencia web moderna.
+
+Mi enfoque no es solo “hacer pantallas”: busco que cada sistema tenga una estructura clara, datos consistentes, reglas explícitas y una base que pueda evolucionar sin romper lo que ya funciona.
 
 ---
 
-## Engineering Areas
+## ⚡ Tech Stack
 
-| Area | What I work on |
-|---|---|
-| Backend architecture | Controllers, services, policies, validation, domain workflows and modularization |
-| APIs | REST endpoints, authentication, authorization, validation and frontend integration |
-| Security | Roles, permissions, protected routes, secure sessions and input validation |
-| Data | Relational schemas, migrations, queries, inventory and transaction-oriented models |
-| Testing | Backend tests, isolated test databases and regression-oriented validation |
-| Product development | Translating operational problems into usable software workflows |
-| Deployment | Environment configuration, production readiness and application delivery |
+<div align="center">
 
----
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Laravel%20Sanctum-EF4444?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## Selected Projects
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### School Attendance & Management Platform
+### Data & Tooling
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Laravel 12 · Livewire 4 · Tailwind CSS · QR · SQL**
+</div>
 
-Multi-institution school platform designed around attendance and academic operations.
+<details>
+<summary><b>Más tecnologías</b></summary>
 
-**Engineering scope**
-- student and enrollment management;
-- QR-based attendance workflows;
-- teachers and guardians;
-- reports and audit-oriented records;
-- roles and permissions;
-- institutional portal;
-- multi-institution architecture.
+<br>
 
-**Repository:** private · active development
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=111827)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
----
-
-### POS Celulares
-
-**Laravel 11 · React 18 · Sanctum · REST API**
-
-Full-stack commercial system for mobile phone stores and inventory-heavy retail operations.
-
-**Engineering scope**
-- point of sale;
-- cash register workflows;
-- inventory and stock adjustments;
-- IMEI traceability;
-- purchases and customers;
-- Kardex and inventory alerts;
-- dashboards and operational reporting;
-- authenticated API.
-
-**Repository:** private · active development
+</details>
 
 ---
 
-### MARKA
+## 🧠 Áreas de ingeniería
 
-**Laravel 12 · React · Flutter · Filament · Sanctum**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Local delivery platform connecting customers, businesses and drivers through a role-based workflow.
+### 🏗️ Backend & arquitectura
+- APIs REST
+- servicios y reglas de negocio
+- autenticación y autorización
+- policies, middleware y validación
+- modularización
+- workflows transaccionales
 
-**Engineering scope**
-- customer/business/driver roles;
-- location and delivery coverage;
-- catalog and cart;
-- server-side quotations;
-- transactional order creation;
-- stock validation;
-- business order workflow;
-- driver assignment and delivery;
-- Filament administration;
-- automated backend and frontend tests.
+</td>
+<td width="50%" valign="top">
 
-**Repository:** private · functional project in evolution
+### 🗄️ Datos & consistencia
+- modelado relacional
+- migraciones
+- consultas
+- inventarios
+- auditoría
+- operaciones críticas
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Seguridad
+- rutas protegidas
+- roles y permisos
+- sesiones y tokens
+- validación de entrada
+- control de acceso
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Calidad
+- pruebas automatizadas
+- bases aisladas para testing
+- regresión
+- linting
+- revisión antes de despliegue
+
+</td>
+</tr>
+</table>
 
 ---
 
-### D Mare Sushi
+# 🚀 Proyectos destacados
 
-**React · TypeScript · Tailwind CSS · Supabase**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Restaurant ordering interface focused on product discovery and digital ordering experience.
+## 🏫 Asistencia Escolar
 
-**Engineering scope**
-- responsive catalog;
-- category filtering;
-- discounts and promotions;
-- cart interactions;
-- administration UI foundation;
-- Supabase client integration.
+**Laravel 12 · Livewire 4 · QR · SQL**
 
-**Repository:** private · frontend in evolution
+Plataforma multiinstitución para gestión académica y asistencia.
+
+**Incluye**
+- estudiantes y matrículas
+- asistencia con QR
+- docentes y apoderados
+- roles y permisos
+- reportes
+- portal institucional
+- arquitectura multiinstitución
+
+> 🔒 Repositorio privado · desarrollo activo
+
+</td>
+<td width="50%" valign="top">
+
+## 📱 POS Celulares
+
+**Laravel 11 · React 18 · Sanctum · REST**
+
+Sistema comercial full stack para tiendas de celulares.
+
+**Incluye**
+- punto de venta
+- caja
+- inventario
+- IMEI
+- compras
+- clientes
+- Kardex
+- dashboard y reportes
+
+> 🔒 Repositorio privado · desarrollo activo
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🚚 MARKA
+
+**Laravel 12 · React · Flutter · Filament**
+
+Plataforma de delivery con clientes, negocios y repartidores.
+
+**Incluye**
+- catálogo y carrito
+- cobertura y ubicación
+- cotización desde backend
+- pedidos transaccionales
+- control de stock
+- flujo de negocio
+- asignación de repartidor
+- pruebas automatizadas
+
+> 🔒 Repositorio privado · producto en evolución
+
+</td>
+<td width="50%" valign="top">
+
+## 🍣 D Mare Sushi
+
+**React · TypeScript · Tailwind · Supabase**
+
+Experiencia digital para restaurante y pedidos.
+
+**Incluye**
+- catálogo responsive
+- filtros por categoría
+- promociones
+- carrito
+- administración visual
+- integración Supabase
+
+> 🔒 Repositorio privado · frontend en evolución
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 🌐 Proyecto público
 
 ### Leon Gutierrez Studio
 
 **Next.js 16 · React 19 · TypeScript · Tailwind CSS**
 
-Professional portfolio and software services site.
+Portafolio profesional y sitio de servicios de software, con enfoque técnico, proyectos reales, SEO y contacto directo.
 
-It combines developer profile, real project cases, technical positioning, SEO and direct contact.
-
-[View repository →](https://github.com/SAUL-LEON-GUTIERREZ/leon-studio)  
-[Visit portfolio →](https://leongutierrez.studio)
-
----
-
-## How I Approach Software
-
-```text
-Understand the process
-        ↓
-Model the business rules
-        ↓
-Design the data and API boundaries
-        ↓
-Build the smallest reliable workflow
-        ↓
-Validate with tests and real scenarios
-        ↓
-Iterate without breaking existing behavior
-```
-
-I prefer explicit rules over hidden behavior, reusable components over duplication, and verified functionality over feature lists that are not implemented.
+<p>
+  <a href="https://github.com/SAUL-LEON-GUTIERREZ/leon-studio">
+    <img src="https://img.shields.io/badge/VER%20CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leongutierrez.studio">
+    <img src="https://img.shields.io/badge/ABRIR%20PORTAFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Currently Deepening
-
-- Laravel application architecture;
-- API design and integration;
-- automated testing;
-- application security;
-- CI/CD;
-- production deployment;
-- observability;
-- performance;
-- SaaS and multi-tenant patterns;
-- backend/frontend integration.
-
----
-
-## Professional Focus
-
-Open to roles and projects involving:
-
-**Backend PHP / Laravel · Full Stack · REST APIs · Business Systems · Web Applications**
-
-I am particularly interested in software used for operations, internal processes, commerce, education and service businesses.
-
----
-
-## Contact
-
-**Portfolio:** [leongutierrez.studio](https://leongutierrez.studio)  
-**GitHub:** [github.com/SAUL-LEON-GUTIERREZ](https://github.com/SAUL-LEON-GUTIERREZ)  
-**Email:** [saulalexleongutierrez@gmail.com](mailto:saulalexleongutierrez@gmail.com)
-
----
+## 🧭 Cómo construyo software
 
 <div align="center">
 
-**Build software that makes the operation clearer, safer and easier to scale.**
+```text
+Entender el proceso
+        ↓
+Modelar las reglas de negocio
+        ↓
+Diseñar datos y límites de la API
+        ↓
+Construir el flujo mínimo confiable
+        ↓
+Validar con pruebas y escenarios reales
+        ↓
+Iterar sin romper comportamiento existente
+```
+
+</div>
+
+> Prefiero reglas explícitas, componentes reutilizables y funcionalidad verificada antes que una lista extensa de features sin implementar.
+
+---
+
+## 🎯 Focus
+
+![Architecture](https://img.shields.io/badge/Architecture-Laravel-7C3AED?style=flat-square)
+![APIs](https://img.shields.io/badge/APIs-REST-06B6D4?style=flat-square)
+![Testing](https://img.shields.io/badge/Testing-Automation-22C55E?style=flat-square)
+![Security](https://img.shields.io/badge/Security-Web-F59E0B?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2563EB?style=flat-square)
+![SaaS](https://img.shields.io/badge/SaaS-Multi--tenant-EC4899?style=flat-square)
+
+- arquitectura Laravel;
+- diseño de APIs;
+- testing automatizado;
+- seguridad;
+- CI/CD;
+- despliegue;
+- observabilidad;
+- rendimiento;
+- patrones SaaS y multi-tenant;
+- integración backend/frontend.
+
+---
+
+## 💼 Enfoque profesional
+
+<div align="center">
+
+![Backend](https://img.shields.io/badge/Backend-PHP%20%2F%20Laravel-FF2D20?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Web-4F46E5?style=for-the-badge)
+![APIs](https://img.shields.io/badge/REST-APIs-06B6D4?style=for-the-badge)
+![Business Systems](https://img.shields.io/badge/Business-Systems-7C3AED?style=for-the-badge)
+
+</div>
+
+Me interesan productos utilizados en **operaciones, comercio, educación, servicios, inventario, pedidos y procesos internos**.
+
+---
+
+## 📬 Contacto
+
+<div align="center">
+
+<a href="mailto:saulalexleongutierrez@gmail.com">
+  <img src="https://img.shields.io/badge/Email-saulalexleongutierrez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://leongutierrez.studio">
+  <img src="https://img.shields.io/badge/Web-leongutierrez.studio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://github.com/SAUL-LEON-GUTIERREZ">
+  <img src="https://img.shields.io/badge/GitHub-SAUL--LEON--GUTIERREZ-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### <code>Build software that makes operations clearer, safer and easier to scale.</code>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,50:7C3AED,100:111827" alt="" />
 
 </div>
