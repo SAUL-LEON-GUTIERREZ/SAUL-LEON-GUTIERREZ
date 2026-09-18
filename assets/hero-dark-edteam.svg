@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050B14"/>
+      <stop offset="0.42" stop-color="#071827"/>
+      <stop offset="0.72" stop-color="#0A2742"/>
+      <stop offset="1" stop-color="#0B3A60"/>
+    </linearGradient>
+
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientTransform="translate(1010 50) rotate(135) scale(250)">
+      <stop stop-color="#007BDF" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#007BDF" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientTransform="translate(160 270) rotate(-35) scale(250)">
+      <stop stop-color="#00CBFF" stop-opacity=".10"/>
+      <stop offset="1" stop-color="#00CBFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8AC7F0" stroke-opacity=".035" stroke-width="1"/>
+    </pattern>
+
+    <linearGradient id="accent" x1="360" y1="0" x2="840" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#007BDF" stop-opacity="0"/>
+      <stop offset=".25" stop-color="#007BDF"/>
+      <stop offset=".70" stop-color="#1292EE"/>
+      <stop offset="1" stop-color="#00CBFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="26" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="26" fill="url(#glowRight)"/>
+  <rect width="1200" height="300" rx="26" fill="url(#glowLeft)"/>
+
+  <path d="M72 74H250" stroke="#00CBFF" stroke-opacity=".30" stroke-width="2" stroke-linecap="round"/>
+  <path d="M950 226H1128" stroke="#007BDF" stroke-opacity=".40" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="72" cy="74" r="5" fill="#00CBFF"/>
+  <circle cx="1128" cy="226" r="5" fill="#1292EE"/>
+
+  <rect x="430" y="48" width="340" height="34" rx="17" fill="#06111E" fill-opacity=".78" stroke="#007BDF" stroke-opacity=".55"/>
+  <text x="600" y="70" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.1" fill="#C8E8FA">FULL STACK DEVELOPER</text>
+
+  <text x="600" y="144" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">Saul Alex Leon Gutierrez</text>
+
+  <text x="600" y="183" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="500" fill="#C9D7E2">Ingeniero de Sistemas · Full Stack Developer</text>
+
+  <rect x="405" y="218" width="390" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <text x="600" y="252" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing=".8" fill="#7FBFE9">SOFTWARE · PRODUCTO · EXPERIENCIA</text>
+</svg>
