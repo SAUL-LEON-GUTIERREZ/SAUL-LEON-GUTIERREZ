@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90">
   <defs>
     <linearGradient id="bg" x1="110" y1="45" x2="890" y2="45" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#2A3B47"/>
-      <stop offset="0.58" stop-color="#007BDF"/>
-      <stop offset="1" stop-color="#1292EE"/>
+      <stop offset="0" stop-color="#081C2F"/>
+      <stop offset="0.56" stop-color="#0B4F8A"/>
+      <stop offset="1" stop-color="#008DE5"/>
     </linearGradient>
   </defs>
   <rect x="110" y="7" width="780" height="76" rx="16" fill="url(#bg)"/>
-  <rect x="110" y="79" width="780" height="4" rx="2" fill="#00CBFF"/>
-  <circle cx="143" cy="31" r="6" fill="#FBA905"/>
+  <rect x="110" y="79" width="780" height="4" rx="2" fill="#1FB6FF"/>
+  <circle cx="143" cy="31" r="6" fill="#008DE5"/>
   <text x="500" y="39" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">Proyectos destacados</text>
-  <text x="500" y="61" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="500" fill="#EAF6FF">Sistemas construidos alrededor de problemas reales</text>
+  <text x="500" y="61" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="500" fill="#D9EEFF">Sistemas construidos alrededor de problemas reales</text>
 </svg>
