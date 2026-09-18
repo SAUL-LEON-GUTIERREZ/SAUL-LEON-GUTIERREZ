@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0F172A,30:312E81,68:7C3AED,100:06B6D4&text=Saul%20Alex%20Leon%20Gutierrez&fontColor=FFFFFF&fontSize=34&fontAlignY=37&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Full%20Stack%20Developer&descAlignY=57&descSize=18" alt="Saul Alex Leon Gutierrez" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=700&color=7C3AED&center=true&vCenter=true&width=760&lines=Backend+con+Laravel+y+PHP;APIs+REST+y+sistemas+empresariales;Frontend+con+React%2C+Next.js+y+TypeScript;Software+para+resolver+problemas+reales" alt="Presentación animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=700&color=7C3AED&center=true&vCenter=true&width=760&lines=Full+Stack+con+Laravel+y+React;APIs+REST+y+sistemas+empresariales;Frontend+con+React%2C+Next.js+y+TypeScript;Software+para+resolver+problemas+reales" alt="Presentación animada" />
 
 <br>
 
@@ -430,7 +430,7 @@ Entornos, secretos, build y despliegue.
 ### Donde quiero aportar
 
 <p>
-  <img src="https://img.shields.io/badge/Backend-PHP%20%2F%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Laravel%20%2B%20React-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Full%20Stack-Web-4F46E5?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/APIs-REST-06B6D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sistemas-Empresariales-9333EA?style=for-the-badge" />
@@ -444,8 +444,8 @@ Entornos, secretos, build y despliegue.
 
 <div align="center">
 <h3>🎯 Roles</h3>
-Backend Laravel<br>
-Full Stack Web<br>
+Full Stack Developer<br>
+Desarrollo Web<br>
 Desarrollo de APIs
 </div>
 
