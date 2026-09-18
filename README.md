@@ -184,36 +184,54 @@ Interfaces claras, responsive y orientadas al usuario.
 
 ## ✨ Cuidado de interfaz
 
-Una buena interfaz debe ayudar al usuario a completar su tarea con menos fricción.
+<div align="center">
+
+### Interfaces claras, útiles y adaptables
+
+<sub>Diseño pensando en la experiencia del usuario, no solo en que la pantalla se vea bien.</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Responsive-Adaptable-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/UX-Flujos%20claros-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Accesibilidad-Jerarquía%20visual-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Performance-Optimización-F59E0B?style=flat-square" />
+</p>
+
+</div>
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center" valign="middle">
 
 ### 📱 Responsive
-Diseños adaptables y aprovechamiento correcto del espacio.
+<sub>Móvil · tablet · escritorio</sub>
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center" valign="middle">
+
+### 🧩 UX
+<sub>Flujos simples y feedback visual</sub>
+
+</td>
+<td width="25%" align="center" valign="middle">
 
 ### ♿ Accesibilidad
-Jerarquía, contraste, navegación y estados comprensibles.
+<sub>Contraste, jerarquía y navegación</sub>
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center" valign="middle">
 
 ### ⚡ Rendimiento
-Carga eficiente, reutilización de componentes y optimización.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 🧩 Experiencia
-Flujos claros, feedback visual y menos pasos innecesarios.
+<sub>Componentes reutilizables y carga eficiente</sub>
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <b>Objetivo:</b> interfaces fáciles de entender, rápidas de usar y consistentes.
+</p>
+
 
 ---
 
