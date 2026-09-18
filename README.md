@@ -498,14 +498,48 @@ Entornos, secretos, build y despliegue.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Backend-PHP%20%2F%20Laravel-FF2D20?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full%20Stack-Web-4F46E5?style=for-the-badge" />
+### Donde quiero aportar
+
+<img src="https://img.shields.io/badge/Backend-PHP%20%2F%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Full%20Stack-Web-4F46E5?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/APIs-REST-06B6D4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Sistemas-Empresariales-9333EA?style=for-the-badge" />
 
 </div>
 
-Me interesan oportunidades y proyectos de software relacionados con **operaciones, comercio, educación, servicios, inventario, pedidos y procesos internos**.
+<br>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎯 Roles
+Backend Laravel  
+Full Stack Web  
+Desarrollo de APIs
+
+</td>
+<td width="33%" align="center">
+
+### 🏢 Productos
+Ventas · Inventario  
+Educación · Delivery  
+Procesos internos
+
+</td>
+<td width="33%" align="center">
+
+### 🌎 Modalidad
+Remoto · Híbrido  
+Perú / LatAm  
+Proyectos freelance
+
+</td>
+</tr>
+</table>
+
+> Me interesa participar en productos donde el software tenga impacto directo en la operación y pueda seguir evolucionando con el negocio.
+
 
 ---
 
@@ -513,30 +547,26 @@ Me interesan oportunidades y proyectos de software relacionados con **operacione
 
 <div align="center">
 
-### ¿Hablamos?
+### ¿Tienes una oportunidad o proyecto?
 
-<a href="https://wa.me/51903434968?text=Hola%20Saul%2C%20vi%20tu%20perfil%20de%20GitHub%20y%20quiero%20conversar%20contigo.">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B51%20903%20434%20968-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
+<p>
+  <a href="https://wa.me/51903434968?text=Hola%20Saul%2C%20vi%20tu%20perfil%20de%20GitHub%20y%20quiero%20conversar%20contigo.">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B51%20903%20434%20968-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:saulalexleongutierrez@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-saulalexleongutierrez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
+  <a href="https://github.com/SAUL-LEON-GUTIERREZ">
+    <img src="https://img.shields.io/badge/GitHub-SAUL--LEON--GUTIERREZ-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<a href="mailto:saulalexleongutierrez@gmail.com">
-  <img src="https://img.shields.io/badge/Correo-saulalexleongutierrez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
-</a>
-
-<br><br>
-
-<a href="https://leongutierrez.studio">
-  <img src="https://img.shields.io/badge/Portafolio-leongutierrez.studio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
-</a>
-
-<br><br>
+<br>
 
 **WhatsApp:** +51 903 434 968  
 **Correo:** saulalexleongutierrez@gmail.com
 
-<br>
-
-<sub>Perú · abierto a oportunidades remotas, híbridas y proyectos.</sub>
+<sub>Perú · disponible para oportunidades remotas, híbridas y proyectos.</sub>
 
 </div>
 
