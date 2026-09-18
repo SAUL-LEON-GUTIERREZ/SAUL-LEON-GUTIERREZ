@@ -500,45 +500,59 @@ Entornos, secretos, build y despliegue.
 
 ### Donde quiero aportar
 
-<img src="https://img.shields.io/badge/Backend-PHP%20%2F%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Full%20Stack-Web-4F46E5?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/APIs-REST-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Sistemas-Empresariales-9333EA?style=for-the-badge" />
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Backend-PHP%20%2F%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Web-4F46E5?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-REST-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sistemas-Empresariales-9333EA?style=for-the-badge" />
+</p>
 
 <br>
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="middle">
 
-### 🎯 Roles
-Backend Laravel  
-Full Stack Web  
+<div align="center">
+<h3>🎯 Roles</h3>
+Backend Laravel<br>
+Full Stack Web<br>
 Desarrollo de APIs
+</div>
 
 </td>
-<td width="33%" align="center">
 
-### 🏢 Productos
-Ventas · Inventario  
-Educación · Delivery  
+<td width="33%" align="center" valign="middle">
+
+<div align="center">
+<h3>🏢 Productos</h3>
+Ventas · Inventario<br>
+Educación · Delivery<br>
 Procesos internos
+</div>
 
 </td>
-<td width="33%" align="center">
 
-### 🌎 Modalidad
-Remoto · Híbrido  
-Perú / LatAm  
+<td width="33%" align="center" valign="middle">
+
+<div align="center">
+<h3>🌎 Modalidad</h3>
+Remoto · Híbrido<br>
+Perú / LatAm<br>
 Proyectos freelance
+</div>
 
 </td>
 </tr>
 </table>
 
-> Me interesa participar en productos donde el software tenga impacto directo en la operación y pueda seguir evolucionando con el negocio.
+<br>
+
+<p align="center">
+  <b>Busco aportar en productos donde el software tenga impacto directo en la operación y pueda evolucionar con el negocio.</b>
+</p>
+
+</div>
 
 
 ---
