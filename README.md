@@ -69,69 +69,76 @@ Transformar procesos reales en sistemas simples de utilizar y mantener.
 
 ---
 
-## ⚡ Stack tecnológico
+## ⚡ Pila tecnológica
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,nextjs,ts,tailwind,js,git,github,docker,postman,vite,supabase,flutter&perline=8" alt="Tecnologías principales" />
+### Herramientas con las que construyo productos web
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,nextjs,ts,tailwind,js,git,github,docker,postman,vite,supabase,flutter&perline=8" alt="Pila tecnológica de Saul Leon Gutierrez" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Enfoque-Backend%20First-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Arquitectura-APIs%20REST-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Interfaz-Responsive-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Datos-Relacionales-22C55E?style=for-the-badge" />
 
 </div>
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔴 Backend
-- PHP
-- Laravel
-- Laravel Sanctum
-- Eloquent ORM
-- APIs REST
-- Livewire
-- Filament
 
-</td>
-<td width="50%" valign="top">
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sanctum-EF4444?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs%20REST-111827?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Filament-F59E0B?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+> Desarrollo de lógica de negocio, autenticación, autorización, servicios, validaciones y flujos transaccionales.
 
 ### 🔵 Frontend
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- Alpine.js
-- Diseño responsive
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=111827" />
+</p>
+
+> Interfaces responsive, componentes reutilizables, estados claros y experiencias orientadas a tareas reales.
 
 ### 🟢 Datos
-- MySQL
-- SQLite
-- modelado relacional
-- migraciones
-- consultas y reportes
-- integridad de datos
 
-</td>
-<td width="50%" valign="top">
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eloquent%20ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
 
-### 🟣 Herramientas
-- Git y GitHub
-- Docker
-- Laravel Sail
-- Postman
-- Vite
-- Supabase
-- Flutter
+> Modelado relacional, migraciones, integridad, consultas, inventarios y generación de reportes.
 
-</td>
-</tr>
-</table>
+### 🟣 Herramientas y entrega
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+> Control de versiones, entornos reproducibles, pruebas de API, builds modernos e integración de servicios.
+
 
 ---
 
