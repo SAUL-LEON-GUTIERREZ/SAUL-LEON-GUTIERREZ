@@ -181,15 +181,15 @@ Flujos claros, feedback visual y menos pasos innecesarios.
 
 <div align="center">
 
-### Soluciones construidas para operaciones reales
+### Sistemas construidos alrededor de problemas reales
 
-<sub>Educación · Comercio · Inventario · Delivery · Experiencias digitales</sub>
+<sub>Educación · Comercio · Delivery · Restaurantes · Producto digital</sub>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Arquitectura-Backend%20%2B%20Frontend-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Enfoque-Producto%20real-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Estado-En%20evolución-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontend-React%20%2F%20Livewire-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Arquitectura-APIs%20%2B%20Reglas%20de%20negocio-7C3AED?style=flat-square" />
 
 </div>
 
@@ -197,128 +197,129 @@ Flujos claros, feedback visual y menos pasos innecesarios.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-## 🏫 Sistema de Asistencia Escolar
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Livewire-4-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" />
-  <img src="https://img.shields.io/badge/QR-Asistencia-111827?style=for-the-badge" />
-</p>
+### 🏫 Sistema de Asistencia Escolar
 
-Plataforma multiinstitución para **gestión académica, asistencia y control operativo** en instituciones educativas.
+<sub><b>EDUCACIÓN · SaaS MULTIINSTITUCIÓN</b></sub>
 
-### Funciones principales
-- estudiantes y matrículas;
-- asistencia mediante QR;
-- docentes y apoderados;
-- roles y permisos;
-- reportes;
-- portal institucional;
-- arquitectura multiinstitución.
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Livewire-4-FB70A9?style=flat-square&logo=livewire&logoColor=white" />
+<img src="https://img.shields.io/badge/QR-Asistencia-111827?style=flat-square" />
 
-<p>
-  <img src="https://img.shields.io/badge/Estado-Desarrollo%20activo-22C55E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tipo-SaaS%20educativo-7C3AED?style=flat-square" />
-</p>
+<br><br>
+
+Control de asistencia y gestión académica con roles, matrículas, reportes y portal institucional.
+
+<br><br>
+
+<code>QR</code> · <code>Roles</code> · <code>Reportes</code> · <code>Multi-tenant</code>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/●-Desarrollo%20activo-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
+
+</div>
 
 </td>
-<td width="50%" valign="top">
 
-## 📱 POS Celulares
+<td width="50%" align="center" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/API-REST-06B6D4?style=for-the-badge" />
-</p>
+<div align="center">
 
-Sistema comercial full stack para tiendas de celulares, accesorios y operaciones con **control detallado de inventario**.
+### 📱 POS Celulares
 
-### Funciones principales
-- punto de venta;
-- caja;
-- inventario;
-- control por IMEI;
-- compras y clientes;
-- Kardex;
-- alertas;
-- dashboard y reportes.
+<sub><b>COMERCIO · PUNTO DE VENTA</b></sub>
 
-<br>
+<br><br>
 
-<p>
-  <img src="https://img.shields.io/badge/Estado-Desarrollo%20activo-22C55E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tipo-Sistema%20comercial-7C3AED?style=flat-square" />
-</p>
+<img src="https://img.shields.io/badge/Laravel-11-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/React-18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/API-REST-06B6D4?style=flat-square" />
+
+<br><br>
+
+Sistema comercial para ventas, caja, inventario, compras, clientes y control individual por IMEI.
+
+<br><br>
+
+<code>POS</code> · <code>IMEI</code> · <code>Kardex</code> · <code>Dashboard</code>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/●-Desarrollo%20activo-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
+
+</div>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-## 🚚 MARKA
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-App-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
+### 🚚 MARKA
 
-Plataforma de delivery local que conecta **clientes, negocios y repartidores** mediante reglas reales de operación.
+<sub><b>DELIVERY · PLATAFORMA MULTIROL</b></sub>
 
-### Funciones principales
-- catálogo y carrito;
-- ubicación y cobertura;
-- cotización calculada en backend;
-- pedidos transaccionales;
-- validación de stock;
-- gestión de negocio;
-- flujo de reparto;
-- pruebas automatizadas.
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/React-Web-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Flutter-App-02569B?style=flat-square&logo=flutter&logoColor=white" />
 
-<p>
-  <img src="https://img.shields.io/badge/Estado-Producto%20en%20evolución-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tipo-Plataforma%20delivery-7C3AED?style=flat-square" />
-</p>
+<br><br>
+
+Plataforma para clientes, negocios y repartidores con cobertura, stock, cotización y flujo de pedidos.
+
+<br><br>
+
+<code>Pedidos</code> · <code>Cobertura</code> · <code>Stock</code> · <code>Reparto</code>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/●-En%20evolución-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
+
+</div>
 
 </td>
-<td width="50%" valign="top">
 
-## 🍣 D Mare Sushi
+<td width="50%" align="center" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/React-UI-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
+<div align="center">
 
-Experiencia digital para catálogo y pedidos de restaurante, con enfoque **responsive y orientado a conversión**.
+### 🍣 D Mare Sushi
 
-### Funciones principales
-- catálogo responsive;
-- filtros por categoría;
-- promociones;
-- carrito;
-- interfaz administrativa;
-- integración preparada con Supabase.
+<sub><b>RESTAURANTE · EXPERIENCIA DIGITAL</b></sub>
 
-<br>
+<br><br>
 
-<p>
-  <img src="https://img.shields.io/badge/Estado-Frontend%20en%20evolución-06B6D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tipo-Restaurante%20digital-7C3AED?style=flat-square" />
-</p>
+<img src="https://img.shields.io/badge/React-UI-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+
+<br><br>
+
+Interfaz responsive para catálogo, promociones, categorías y flujo de pedidos de restaurante.
+
+<br><br>
+
+<code>Catálogo</code> · <code>Carrito</code> · <code>Responsive</code> · <code>Supabase</code>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/●-Frontend%20en%20evolución-06B6D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
+
+</div>
 
 </td>
 </tr>
@@ -326,54 +327,37 @@ Experiencia digital para catálogo y pedidos de restaurante, con enfoque **respo
 
 <br>
 
-## 🌐 Portafolio profesional
-
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="100%" align="center" valign="middle">
 
-### Leon Gutierrez Studio
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+### 🌐 Leon Gutierrez Studio
 
-Portafolio profesional y sitio de servicios de software, diseñado para presentar **perfil técnico, proyectos reales y soluciones digitales**.
-
-### Lo que demuestra
-- arquitectura frontend con Next.js;
-- componentes reutilizables;
-- diseño responsive;
-- SEO técnico;
-- metadata y datos estructurados;
-- interfaz orientada a producto;
-- integración con proyectos reales.
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/Estado-En%20preparación-F59E0B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Código-Privado%20temporalmente-64748B?style=flat-square" />
-</p>
-
-</td>
-<td width="32%" align="center" valign="middle">
-
-<img src="https://img.shields.io/badge/Portafolio-Frontend%20moderno-7C3AED?style=for-the-badge" />
+<sub><b>PORTAFOLIO · PRODUCTO PERSONAL</b></sub>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/UI-Enfoque%20producto-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SEO-Preparado-22C55E?style=for-the-badge" />
+Portafolio profesional orientado a presentar perfil técnico, proyectos reales, servicios y contacto.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Responsive-Mobile%20First-2563EB?style=for-the-badge" />
+<code>Next.js</code> · <code>SEO</code> · <code>Responsive UI</code> · <code>Componentes</code>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/●-En%20preparación-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Código-Privado%20temporalmente-64748B?style=flat-square" />
+
+</div>
 
 </td>
 </tr>
