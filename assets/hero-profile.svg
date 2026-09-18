@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#061421"/>
+      <stop offset="0.42" stop-color="#0A2F4F"/>
+      <stop offset="0.72" stop-color="#075C97"/>
+      <stop offset="1" stop-color="#0A84D6"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientTransform="translate(995 38) rotate(128) scale(210 210)">
+      <stop stop-color="#1FB6FF" stop-opacity=".26"/>
+      <stop offset="1" stop-color="#1FB6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientTransform="translate(165 248) rotate(-32) scale(230 230)">
+      <stop stop-color="#008DE5" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#008DE5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#D9EEFF" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="280" rx="28" fill="url(#glow1)"/>
+  <rect width="1200" height="280" rx="28" fill="url(#glow2)"/>
+
+  <circle cx="95" cy="70" r="5" fill="#1FB6FF"/>
+  <circle cx="1110" cy="208" r="4" fill="#008DE5"/>
+  <path d="M105 224H300" stroke="#1FB6FF" stroke-opacity=".45" stroke-width="2" stroke-linecap="round"/>
+  <path d="M900 58H1095" stroke="#008DE5" stroke-opacity=".40" stroke-width="2" stroke-linecap="round"/>
+
+  <rect x="455" y="40" width="290" height="34" rx="17" fill="#081C2F" fill-opacity=".64" stroke="#1FB6FF" stroke-opacity=".38"/>
+  <text x="600" y="62" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#CDEEFF">FULL STACK DEVELOPER</text>
+
+  <text x="600" y="126" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#FFFFFF">Saul Alex Leon Gutierrez</text>
+  <text x="600" y="158" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="500" fill="#D9EEFF">Ingeniero de Sistemas e Informática</text>
+
+  <rect x="350" y="190" width="500" height="42" rx="21" fill="#061421" fill-opacity=".56" stroke="#0A84D6" stroke-opacity=".34"/>
+  <text x="600" y="216" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="600" fill="#EAF7FF">Laravel  ·  React  ·  APIs REST  ·  MySQL  ·  UI Responsive</text>
+</svg>
