@@ -6,19 +6,19 @@
 
 <p>
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-2A3B47?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/Stack-Laravel%20%2B%20React-007BDF?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel y React" />
+  <img src="https://img.shields.io/badge/Stack-Laravel%20%2B%20React-007BDF?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Laravel y React" />
   <img src="https://img.shields.io/badge/Perú-Remoto%20%2F%20Híbrido-1292EE?style=for-the-badge" alt="Perú" />
 </p>
 
 <p>
   <a href="https://wa.me/51903434968?text=Hola%20Saul%2C%20vi%20tu%20perfil%20de%20GitHub%20y%20quiero%20conversar%20contigo.">
-    <img src="https://img.shields.io/badge/WhatsApp-Escribirme-007BDF?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-Escribirme-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:saulalexleongutierrez@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-Contactarme-1292EE?style=flat-square&logo=gmail&logoColor=white" alt="Correo" />
+    <img src="https://img.shields.io/badge/Correo-Contactarme-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Correo" />
   </a>
   <a href="https://github.com/SAUL-LEON-GUTIERREZ">
-    <img src="https://img.shields.io/badge/GitHub-Ver%20perfil-2A3B47?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Ver%20perfil-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=SAUL-LEON-GUTIERREZ&label=Visitas&color=007BDF&style=flat-square" alt="Visitas" />
 </p>
@@ -102,10 +102,10 @@ Responsive · UX · Componentes reutilizables
 <td width="50%" align="center" valign="top">
 <div align="center">
 <h3>Backend</h3>
-<img src="https://img.shields.io/badge/PHP-2A3B47?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-007BDF?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Sanctum-1292EE?style=flat-square" />
-<img src="https://img.shields.io/badge/Livewire-00BFF0?style=flat-square" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" />
 <br><br>
 <sub>Reglas de negocio · autenticación · servicios · validaciones</sub>
 </div>
@@ -113,10 +113,10 @@ Responsive · UX · Componentes reutilizables
 <td width="50%" align="center" valign="top">
 <div align="center">
 <h3>Frontend</h3>
-<img src="https://img.shields.io/badge/React-007BDF?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-2A3B47?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-1292EE?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-00BFF0?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 <br><br>
 <sub>Interfaces modernas · estados claros · componentes reutilizables</sub>
 </div>
@@ -126,10 +126,10 @@ Responsive · UX · Componentes reutilizables
 <td width="50%" align="center" valign="top">
 <div align="center">
 <h3>Datos</h3>
-<img src="https://img.shields.io/badge/MySQL-007BDF?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-2A3B47?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-1292EE?style=flat-square" />
-<img src="https://img.shields.io/badge/Eloquent-00BFF0?style=flat-square" />
+<img src="https://img.shields.io/badge/Eloquent-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 <br><br>
 <sub>Modelado · integridad · migraciones · consultas · reportes</sub>
 </div>
@@ -137,10 +137,10 @@ Responsive · UX · Componentes reutilizables
 <td width="50%" align="center" valign="top">
 <div align="center">
 <h3>Herramientas</h3>
-<img src="https://img.shields.io/badge/Git-2A3B47?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-007BDF?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-1292EE?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FBA905?style=flat-square&logo=postman&logoColor=2A3B47" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <br><br>
 <sub>Versionado · entornos · pruebas de API · builds modernos</sub>
 </div>
@@ -212,12 +212,12 @@ Responsive · UX · Componentes reutilizables
 <br><br>
 Asistencia, matrículas, roles, reportes y portal institucional.
 <br><br>
-<img src="https://img.shields.io/badge/Laravel-12-2A3B47?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Livewire-4-1292EE?style=flat-square" />
+<img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Livewire-4-4E56A6?style=flat-square&logo=livewire&logoColor=white" />
 <br><br>
 <sub><code>QR</code> · <code>Roles</code> · <code>Reportes</code> · <code>Multi-tenant</code></sub>
 <br><br>
-<img src="https://img.shields.io/badge/Estado-Activo-007BDF?style=flat-square" />
+<img src="https://img.shields.io/badge/Estado-Activo-0F9D58?style=flat-square" />
 <img src="https://img.shields.io/badge/Código-Privado-2A3B47?style=flat-square" />
 </div>
 </td>
@@ -228,12 +228,12 @@ Asistencia, matrículas, roles, reportes y portal institucional.
 <br><br>
 Ventas, caja, inventario, compras, clientes y control por IMEI.
 <br><br>
-<img src="https://img.shields.io/badge/Laravel-11-2A3B47?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/React-18-007BDF?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-11-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/React-18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <br><br>
 <sub><code>POS</code> · <code>IMEI</code> · <code>Kardex</code> · <code>Dashboard</code></sub>
 <br><br>
-<img src="https://img.shields.io/badge/Estado-Activo-007BDF?style=flat-square" />
+<img src="https://img.shields.io/badge/Estado-Activo-0F9D58?style=flat-square" />
 <img src="https://img.shields.io/badge/Código-Privado-2A3B47?style=flat-square" />
 </div>
 </td>
@@ -246,8 +246,9 @@ Ventas, caja, inventario, compras, clientes y control por IMEI.
 <br><br>
 Pedidos, cobertura, stock y flujo entre cliente, negocio y repartidor.
 <br><br>
-<img src="https://img.shields.io/badge/Laravel-12-2A3B47?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20%2B%20Flutter-007BDF?style=flat-square" />
+<img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <br><br>
 <sub><code>Pedidos</code> · <code>Cobertura</code> · <code>Stock</code> · <code>Reparto</code></sub>
 <br><br>
@@ -262,8 +263,9 @@ Pedidos, cobertura, stock y flujo entre cliente, negocio y repartidor.
 <br><br>
 Catálogo, categorías, promociones y carrito responsive.
 <br><br>
-<img src="https://img.shields.io/badge/React%20%2B%20TypeScript-2A3B47?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-007BDF?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 <br><br>
 <sub><code>Catálogo</code> · <code>Carrito</code> · <code>Responsive</code> · <code>Supabase</code></sub>
 <br><br>
@@ -283,9 +285,9 @@ Catálogo, categorías, promociones y carrito responsive.
 <br><br>
 Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 <br><br>
-<img src="https://img.shields.io/badge/Next.js-16-2A3B47?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-19-007BDF?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-1292EE?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <br><br>
 <img src="https://img.shields.io/badge/Estado-En%20preparación-FBA905?style=flat-square&logoColor=2A3B47" />
 <img src="https://img.shields.io/badge/Código-Privado%20temporalmente-2A3B47?style=flat-square" />
@@ -385,7 +387,7 @@ Portafolio profesional con proyectos reales, servicios, SEO y contacto.
 <div align="center">
 
 <p>
-  <img src="https://img.shields.io/badge/Full%20Stack-Laravel%20%2B%20React-2A3B47?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Laravel%20%2B%20React-2A3B47?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/APIs-REST-007BDF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sistemas-Empresariales-1292EE?style=for-the-badge" />
 </p>
@@ -435,13 +437,13 @@ Proyectos freelance
 <div align="center">
 
 <a href="https://wa.me/51903434968?text=Hola%20Saul%2C%20vi%20tu%20perfil%20de%20GitHub%20y%20quiero%20conversar%20contigo.">
-  <img src="https://img.shields.io/badge/WhatsApp-Escribirme-007BDF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/WhatsApp-Escribirme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 <a href="mailto:saulalexleongutierrez@gmail.com">
-  <img src="https://img.shields.io/badge/Correo-Enviar%20email-1292EE?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  <img src="https://img.shields.io/badge/Correo-Enviar%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
 </a>
 <a href="https://github.com/SAUL-LEON-GUTIERREZ">
-  <img src="https://img.shields.io/badge/GitHub-Ver%20perfil-2A3B47?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Ver%20perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br><br>
