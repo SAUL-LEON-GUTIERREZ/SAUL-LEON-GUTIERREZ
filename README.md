@@ -1,55 +1,67 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,32:312E81,67:7C3AED,100:06B6D4&text=Saul%20Alex%20Leon%20Gutierrez&fontColor=FFFFFF&fontSize=34&fontAlignY=37&desc=Software%20Engineer%20%C2%B7%20Backend%20%2F%20Full%20Stack&descAlignY=57&descSize=18" alt="Saul Alex Leon Gutierrez" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0F172A,30:312E81,68:7C3AED,100:06B6D4&text=Saul%20Alex%20Leon%20Gutierrez&fontColor=FFFFFF&fontSize=34&fontAlignY=37&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Backend%20%2F%20Full%20Stack&descAlignY=57&descSize=18" alt="Saul Alex Leon Gutierrez" />
 
-### Software para operaciones reales, construido con criterio de ingeniería y producto
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=700&color=7C3AED&center=true&vCenter=true&width=760&lines=Backend+con+Laravel+y+PHP;APIs+REST+y+sistemas+empresariales;Frontend+con+React%2C+Next.js+y+TypeScript;Software+para+resolver+problemas+reales" alt="Presentación animada" />
+
+<br>
 
 <p>
-  <a href="https://leongutierrez.studio">
-    <img src="https://img.shields.io/badge/PORTAFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://wa.me/51903434968?text=Hola%20Saul%2C%20vi%20tu%20perfil%20de%20GitHub%20y%20quiero%20conversar%20contigo.">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B51%20903%20434%20968-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +51 903 434 968" />
   </a>
   <a href="mailto:saulalexleongutierrez@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACTO-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/SAUL-LEON-GUTIERREZ">
-    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Correo-saulalexleongutierrez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/Backend-Laravel%20%2F%20PHP-FF2D20?style=flat-square" />
-<img src="https://img.shields.io/badge/Frontend-React%20%2F%20Next.js-4F46E5?style=flat-square" />
-<img src="https://img.shields.io/badge/APIs-REST-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Data-MySQL-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-Business%20Systems-9333EA?style=flat-square" />
+<p>
+  <a href="https://leongutierrez.studio">
+    <img src="https://img.shields.io/badge/Portafolio-leongutierrez.studio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="https://github.com/SAUL-LEON-GUTIERREZ">
+    <img src="https://img.shields.io/badge/GitHub-SAUL--LEON--GUTIERREZ-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=SAUL-LEON-GUTIERREZ&label=Visitas%20al%20perfil&color=7C3AED&style=flat-square" alt="Visitas al perfil" />
 
 </div>
 
 ---
 
-## 👋 Perfil
+## 👋 Sobre mí
 
 Soy **Ingeniero de Sistemas e Informática** enfocado en desarrollo **Backend / Full Stack**.
 
-Construyo aplicaciones donde importan las reglas de negocio: autenticación, roles, inventarios, ventas, pedidos, asistencia, reportes, APIs y flujos multiusuario. Mi stack principal es **PHP + Laravel**, complementado con **React, Next.js y TypeScript** para experiencias web modernas.
+Mi stack principal está centrado en **PHP + Laravel**, diseñando APIs, autenticación, roles, reglas de negocio, inventarios, ventas, pedidos, asistencia, reportes y plataformas multiusuario. Cuando el producto requiere una experiencia web moderna, complemento el backend con **React, Next.js, TypeScript y Tailwind CSS**.
+
+No busco únicamente que una aplicación funcione: me interesa que tenga **estructura clara, datos consistentes, una interfaz usable y una base técnica que pueda seguir evolucionando**.
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 🧠 Backend
-Laravel, APIs, servicios, reglas de negocio y seguridad.
+APIs, servicios, reglas de negocio, seguridad y arquitectura Laravel.
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 🎨 Frontend
-Interfaces responsive, componentes, UX y estados claros.
+Interfaces modernas, responsive, componentes reutilizables y UX.
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 🗄️ Datos
-Modelado relacional, migraciones, consistencia y reportes.
+Modelado relacional, migraciones, consultas, reportes y consistencia.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🚀 Producto
+Transformar procesos reales en sistemas simples de utilizar y mantener.
 
 </td>
 </tr>
@@ -57,11 +69,11 @@ Modelado relacional, migraciones, consistencia y reportes.
 
 ---
 
-## ⚡ Stack
+## ⚡ Stack tecnológico
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,nextjs,ts,tailwind,js,git,github,docker,postman,vite,supabase,flutter&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,nextjs,ts,tailwind,js,git,github,docker,postman,vite,supabase,flutter&perline=8" alt="Tecnologías principales" />
 
 </div>
 
@@ -71,44 +83,45 @@ Modelado relacional, migraciones, consistencia y reportes.
 <tr>
 <td width="50%" valign="top">
 
-### Backend
+### 🔴 Backend
 - PHP
 - Laravel
 - Laravel Sanctum
 - Eloquent ORM
-- REST APIs
+- APIs REST
 - Livewire
 - Filament
 
 </td>
 <td width="50%" valign="top">
 
-### Frontend
+### 🔵 Frontend
 - React
 - Next.js
 - TypeScript
 - JavaScript
 - Tailwind CSS
 - Alpine.js
-- Responsive UI
+- Diseño responsive
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Data
+### 🟢 Datos
 - MySQL
 - SQLite
-- relational modeling
-- migrations
-- reporting
+- modelado relacional
+- migraciones
+- consultas y reportes
+- integridad de datos
 
 </td>
 <td width="50%" valign="top">
 
-### Tooling
-- Git & GitHub
+### 🟣 Herramientas
+- Git y GitHub
 - Docker
 - Laravel Sail
 - Postman
@@ -122,34 +135,34 @@ Modelado relacional, migraciones, consistencia y reportes.
 
 ---
 
-## ✨ Frontend Craft
+## ✨ Cuidado de interfaz
 
-Me gusta que una interfaz no solo “se vea bien”, sino que sea clara y usable.
+Una buena interfaz debe ayudar al usuario a completar su tarea con menos fricción.
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 📱 Responsive
-Layouts adaptables sin scrolls innecesarios.
+Diseños adaptables y aprovechamiento correcto del espacio.
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### ♿ Accesibilidad
 Jerarquía, contraste, navegación y estados comprensibles.
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-### ⚡ Performance
-Carga progresiva, componentes reutilizables y builds optimizados.
+### ⚡ Rendimiento
+Carga eficiente, reutilización de componentes y optimización.
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-### 🧩 UX
-Flujos simples, feedback visual y menos pasos repetidos.
+### 🧩 Experiencia
+Flujos claros, feedback visual y menos pasos innecesarios.
 
 </td>
 </tr>
@@ -165,20 +178,23 @@ Flujos simples, feedback visual y menos pasos repetidos.
 
 ### 🏫 Sistema de Asistencia Escolar
 
-**Laravel 12 · Livewire 4 · QR · SQL**
+**Laravel 12 · Livewire 4 · Tailwind · QR · SQL**
 
 Plataforma multiinstitución para asistencia y gestión académica.
 
-**Highlights**
-- QR y registros de asistencia
-- estudiantes y matrículas
-- docentes y apoderados
-- roles y permisos
-- reportes
-- portal institucional
+**Funciones clave**
+- estudiantes y matrículas;
+- asistencia mediante QR;
+- docentes y apoderados;
+- roles y permisos;
+- reportes;
+- portal institucional;
+- arquitectura multiinstitución.
 
-<img src="https://img.shields.io/badge/STATUS-Active%20Development-22C55E?style=flat-square" />
-<img src="https://img.shields.io/badge/CODE-Private-64748B?style=flat-square" />
+<br>
+
+<img src="https://img.shields.io/badge/Estado-Desarrollo%20activo-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
@@ -189,17 +205,20 @@ Plataforma multiinstitución para asistencia y gestión académica.
 
 Sistema comercial full stack para tiendas de celulares.
 
-**Highlights**
-- punto de venta
-- caja
-- inventario
-- IMEI
-- compras y clientes
-- Kardex
-- dashboard
+**Funciones clave**
+- punto de venta;
+- caja;
+- inventario;
+- control por IMEI;
+- compras y clientes;
+- Kardex;
+- alertas;
+- dashboard y reportes.
 
-<img src="https://img.shields.io/badge/STATUS-Active%20Development-22C55E?style=flat-square" />
-<img src="https://img.shields.io/badge/CODE-Private-64748B?style=flat-square" />
+<br>
+
+<img src="https://img.shields.io/badge/Estado-Desarrollo%20activo-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
 
 </td>
 </tr>
@@ -211,19 +230,22 @@ Sistema comercial full stack para tiendas de celulares.
 
 **Laravel 12 · React · Flutter · Filament**
 
-Plataforma de delivery con cliente, negocio y repartidor.
+Plataforma de delivery que conecta clientes, negocios y repartidores.
 
-**Highlights**
-- catálogo y carrito
-- cobertura y ubicación
-- cotización segura
-- pedidos transaccionales
-- control de stock
-- workflow de reparto
-- pruebas automatizadas
+**Funciones clave**
+- catálogo y carrito;
+- ubicación y cobertura;
+- cotización calculada en backend;
+- pedidos transaccionales;
+- validación de stock;
+- gestión de negocio;
+- flujo de reparto;
+- pruebas automatizadas.
 
-<img src="https://img.shields.io/badge/STATUS-Product%20in%20Evolution-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/CODE-Private-64748B?style=flat-square" />
+<br>
+
+<img src="https://img.shields.io/badge/Estado-Producto%20en%20evolución-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
@@ -232,18 +254,20 @@ Plataforma de delivery con cliente, negocio y repartidor.
 
 **React · TypeScript · Tailwind · Supabase**
 
-Experiencia digital para restaurante y pedidos.
+Experiencia digital para catálogo y pedidos de restaurante.
 
-**Highlights**
-- catálogo responsive
-- categorías
-- promociones
-- carrito
-- UI administrativa
-- integración Supabase
+**Funciones clave**
+- catálogo responsive;
+- filtros por categoría;
+- promociones;
+- carrito;
+- interfaz administrativa;
+- integración preparada con Supabase.
 
-<img src="https://img.shields.io/badge/STATUS-Frontend%20Evolution-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/CODE-Private-64748B?style=flat-square" />
+<br>
+
+<img src="https://img.shields.io/badge/Estado-Frontend%20en%20evolución-06B6D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
 
 </td>
 </tr>
@@ -251,7 +275,7 @@ Experiencia digital para restaurante y pedidos.
 
 ---
 
-## 🌐 Proyecto público
+## 🌐 Proyecto público destacado
 
 <table>
 <tr>
@@ -261,27 +285,28 @@ Experiencia digital para restaurante y pedidos.
 
 **Next.js 16 · React 19 · TypeScript · Tailwind CSS**
 
-Portafolio profesional y sitio de servicios de software con proyectos reales, SEO, contacto directo y una identidad visual propia.
+Mi portafolio profesional y sitio de servicios de software.
 
-**Lo que demuestra**
+**Demuestra**
 - arquitectura frontend con Next.js;
 - componentes reutilizables;
-- responsive design;
+- diseño responsive;
 - SEO técnico;
 - metadata y datos estructurados;
-- UI orientada a producto y conversión.
+- interfaz orientada a producto;
+- integración del portafolio con proyectos reales.
 
 </td>
 <td width="32%" align="center" valign="middle">
 
 <a href="https://github.com/SAUL-LEON-GUTIERREZ/leon-studio">
-  <img src="https://img.shields.io/badge/VER%20CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ver%20código-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" />
 </a>
 
 <br><br>
 
 <a href="https://leongutierrez.studio">
-  <img src="https://img.shields.io/badge/ABRIR%20WEB-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Abrir%20portafolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir portafolio" />
 </a>
 
 </td>
@@ -290,90 +315,107 @@ Portafolio profesional y sitio de servicios de software con proyectos reales, SE
 
 ---
 
-## 🧭 Engineering Workflow
+## 🧭 Mi forma de construir software
 
 <div align="center">
 
 ~~~text
-Discover
-   ↓
-Model
-   ↓
-Design boundaries
-   ↓
-Build
-   ↓
-Test
-   ↓
-Measure
-   ↓
-Iterate
+Entender el problema
+        ↓
+Modelar las reglas de negocio
+        ↓
+Diseñar datos y contratos de API
+        ↓
+Construir un flujo confiable
+        ↓
+Probar escenarios reales
+        ↓
+Medir, corregir y evolucionar
 ~~~
 
 </div>
 
 <table>
 <tr>
-<td align="center"><b>01</b><br>Understand the process</td>
-<td align="center"><b>02</b><br>Model business rules</td>
-<td align="center"><b>03</b><br>Design data & API</td>
-<td align="center"><b>04</b><br>Build reliable flows</td>
-<td align="center"><b>05</b><br>Validate & improve</td>
+<td align="center" width="20%"><b>01</b><br><sub>Entender</sub></td>
+<td align="center" width="20%"><b>02</b><br><sub>Modelar</sub></td>
+<td align="center" width="20%"><b>03</b><br><sub>Diseñar</sub></td>
+<td align="center" width="20%"><b>04</b><br><sub>Construir</sub></td>
+<td align="center" width="20%"><b>05</b><br><sub>Validar e iterar</sub></td>
 </tr>
 </table>
 
+> Prefiero reglas explícitas, componentes reutilizables y funcionalidades verificadas antes que una lista extensa de características que todavía no existen.
+
 ---
 
-## 🧪 Engineering Focus
+## 🧪 Calidad técnica
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Laravel-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arquitectura-Laravel-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/APIs-REST-06B6D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Testing-Automation-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-Web-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pruebas-Automatizadas-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seguridad-Web-F59E0B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2563EB?style=for-the-badge" />
 </p>
 
 Actualmente sigo profundizando en:
 
-<code>Laravel Architecture</code> · <code>Testing</code> · <code>Security</code> · <code>CI/CD</code> · <code>Deployment</code> · <code>Observability</code> · <code>Performance</code> · <code>SaaS</code> · <code>Multi-tenant</code>
+<code>Arquitectura Laravel</code> ·
+<code>Testing</code> ·
+<code>Seguridad</code> ·
+<code>CI/CD</code> ·
+<code>Despliegue</code> ·
+<code>Observabilidad</code> ·
+<code>Rendimiento</code> ·
+<code>SaaS</code> ·
+<code>Multi-tenant</code>
 
 ---
 
 ## 💼 Enfoque profesional
 
-Estoy orientado a oportunidades y proyectos relacionados con:
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-PHP%20%2F%20Laravel-FF2D20?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Web-4F46E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST-APIs-06B6D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Business-Systems-9333EA?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/Backend-PHP%20%2F%20Laravel-FF2D20?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full%20Stack-Web-4F46E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APIs-REST-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Sistemas-Empresariales-9333EA?style=for-the-badge" />
 
-Especialmente en software para **operaciones, comercio, educación, servicios, inventario, pedidos y procesos internos**.
+</div>
+
+Me interesan oportunidades y proyectos de software relacionados con **operaciones, comercio, educación, servicios, inventario, pedidos y procesos internos**.
 
 ---
 
-## 📬 Contacto
+## 📬 Contacto directo
 
 <div align="center">
 
+### ¿Hablamos?
+
+<a href="https://wa.me/51903434968?text=Hola%20Saul%2C%20vi%20tu%20perfil%20de%20GitHub%20y%20quiero%20conversar%20contigo.">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B51%20903%20434%20968-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+
 <a href="mailto:saulalexleongutierrez@gmail.com">
-  <img src="https://img.shields.io/badge/Email-saulalexleongutierrez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://leongutierrez.studio">
-  <img src="https://img.shields.io/badge/Web-leongutierrez.studio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="https://github.com/SAUL-LEON-GUTIERREZ">
-  <img src="https://img.shields.io/badge/GitHub-SAUL--LEON--GUTIERREZ-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Correo-saulalexleongutierrez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
 </a>
 
 <br><br>
 
-<sub>Perú · disponible para oportunidades remotas, híbridas y proyectos.</sub>
+<a href="https://leongutierrez.studio">
+  <img src="https://img.shields.io/badge/Portafolio-leongutierrez.studio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
+</a>
+
+<br><br>
+
+**WhatsApp:** +51 903 434 968  
+**Correo:** saulalexleongutierrez@gmail.com
+
+<br>
+
+<sub>Perú · abierto a oportunidades remotas, híbridas y proyectos.</sub>
 
 </div>
 
@@ -381,8 +423,8 @@ Especialmente en software para **operaciones, comercio, educación, servicios, i
 
 <div align="center">
 
-### <code>Build software that makes operations clearer, safer and easier to scale.</code>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=760&lines=Código+claro.;Interfaces+útiles.;Reglas+de+negocio+explícitas.;Software+preparado+para+evolucionar." alt="Principios de desarrollo" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,50:7C3AED,100:0F172A" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:06B6D4,52:7C3AED,100:0F172A" alt="" />
 
 </div>
