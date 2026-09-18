@@ -179,17 +179,37 @@ Flujos claros, feedback visual y menos pasos innecesarios.
 
 # 🚀 Proyectos destacados
 
+<div align="center">
+
+### Soluciones construidas para operaciones reales
+
+<sub>Educación · Comercio · Inventario · Delivery · Experiencias digitales</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Arquitectura-Backend%20%2B%20Frontend-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Enfoque-Producto%20real-06B6D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Estado-En%20evolución-22C55E?style=flat-square" />
+
+</div>
+
+<br>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏫 Sistema de Asistencia Escolar
+## 🏫 Sistema de Asistencia Escolar
 
-**Laravel 12 · Livewire 4 · Tailwind · QR · SQL**
+<p>
+  <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-4-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/QR-Asistencia-111827?style=for-the-badge" />
+</p>
 
-Plataforma multiinstitución para asistencia y gestión académica.
+Plataforma multiinstitución para **gestión académica, asistencia y control operativo** en instituciones educativas.
 
-**Funciones clave**
+### Funciones principales
 - estudiantes y matrículas;
 - asistencia mediante QR;
 - docentes y apoderados;
@@ -200,19 +220,26 @@ Plataforma multiinstitución para asistencia y gestión académica.
 
 <br>
 
-<img src="https://img.shields.io/badge/Estado-Desarrollo%20activo-22C55E?style=flat-square" />
-<img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
+<p>
+  <img src="https://img.shields.io/badge/Estado-Desarrollo%20activo-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tipo-SaaS%20educativo-7C3AED?style=flat-square" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 POS Celulares
+## 📱 POS Celulares
 
-**Laravel 11 · React 18 · Sanctum · REST**
+<p>
+  <img src="https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/API-REST-06B6D4?style=for-the-badge" />
+</p>
 
-Sistema comercial full stack para tiendas de celulares.
+Sistema comercial full stack para tiendas de celulares, accesorios y operaciones con **control detallado de inventario**.
 
-**Funciones clave**
+### Funciones principales
 - punto de venta;
 - caja;
 - inventario;
@@ -224,8 +251,11 @@ Sistema comercial full stack para tiendas de celulares.
 
 <br>
 
-<img src="https://img.shields.io/badge/Estado-Desarrollo%20activo-22C55E?style=flat-square" />
-<img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
+<p>
+  <img src="https://img.shields.io/badge/Estado-Desarrollo%20activo-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tipo-Sistema%20comercial-7C3AED?style=flat-square" />
+</p>
 
 </td>
 </tr>
@@ -233,13 +263,17 @@ Sistema comercial full stack para tiendas de celulares.
 <tr>
 <td width="50%" valign="top">
 
-### 🚚 MARKA
+## 🚚 MARKA
 
-**Laravel 12 · React · Flutter · Filament**
+<p>
+  <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-App-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 
-Plataforma de delivery que conecta clientes, negocios y repartidores.
+Plataforma de delivery local que conecta **clientes, negocios y repartidores** mediante reglas reales de operación.
 
-**Funciones clave**
+### Funciones principales
 - catálogo y carrito;
 - ubicación y cobertura;
 - cotización calculada en backend;
@@ -251,19 +285,26 @@ Plataforma de delivery que conecta clientes, negocios y repartidores.
 
 <br>
 
-<img src="https://img.shields.io/badge/Estado-Producto%20en%20evolución-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
+<p>
+  <img src="https://img.shields.io/badge/Estado-Producto%20en%20evolución-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tipo-Plataforma%20delivery-7C3AED?style=flat-square" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🍣 D Mare Sushi
+## 🍣 D Mare Sushi
 
-**React · TypeScript · Tailwind · Supabase**
+<p>
+  <img src="https://img.shields.io/badge/React-UI-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
 
-Experiencia digital para catálogo y pedidos de restaurante.
+Experiencia digital para catálogo y pedidos de restaurante, con enfoque **responsive y orientado a conversión**.
 
-**Funciones clave**
+### Funciones principales
 - catálogo responsive;
 - filtros por categoría;
 - promociones;
@@ -273,16 +314,19 @@ Experiencia digital para catálogo y pedidos de restaurante.
 
 <br>
 
-<img src="https://img.shields.io/badge/Estado-Frontend%20en%20evolución-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
+<p>
+  <img src="https://img.shields.io/badge/Estado-Frontend%20en%20evolución-06B6D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Código-Privado-64748B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tipo-Restaurante%20digital-7C3AED?style=flat-square" />
+</p>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 🌐 Proyecto público destacado
+## 🌐 Portafolio profesional
 
 <table>
 <tr>
@@ -290,35 +334,51 @@ Experiencia digital para catálogo y pedidos de restaurante.
 
 ### Leon Gutierrez Studio
 
-**Next.js 16 · React 19 · TypeScript · Tailwind CSS**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-Mi portafolio profesional y sitio de servicios de software.
+Portafolio profesional y sitio de servicios de software, diseñado para presentar **perfil técnico, proyectos reales y soluciones digitales**.
 
-**Demuestra**
+### Lo que demuestra
 - arquitectura frontend con Next.js;
 - componentes reutilizables;
 - diseño responsive;
 - SEO técnico;
 - metadata y datos estructurados;
 - interfaz orientada a producto;
-- integración del portafolio con proyectos reales.
+- integración con proyectos reales.
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Estado-En%20preparación-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Código-Privado%20temporalmente-64748B?style=flat-square" />
+</p>
 
 </td>
 <td width="32%" align="center" valign="middle">
 
-<a href="https://github.com/SAUL-LEON-GUTIERREZ/leon-studio">
-  <img src="https://img.shields.io/badge/Ver%20código-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" />
-</a>
+<img src="https://img.shields.io/badge/Portafolio-Frontend%20moderno-7C3AED?style=for-the-badge" />
 
 <br><br>
 
-<a href="https://leongutierrez.studio">
-  <img src="https://img.shields.io/badge/Abrir%20portafolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir portafolio" />
-</a>
+<img src="https://img.shields.io/badge/UI-Enfoque%20producto-06B6D4?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SEO-Preparado-22C55E?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Responsive-Mobile%20First-2563EB?style=for-the-badge" />
 
 </td>
 </tr>
 </table>
+
 
 ---
 
