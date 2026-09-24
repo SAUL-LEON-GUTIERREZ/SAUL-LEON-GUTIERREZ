@@ -1536,6 +1536,57 @@ header[id], section[id]{scroll-margin-top:96px}
   .presentation-focus:after{inset:-5px;border-radius:20px}
 }
 
+
+/* ===== V8.4 · SECCIÓN INICIAL MÁS LIMPIA ===== */
+#colegio .sectionHead{
+  align-items:flex-end !important;
+  margin-bottom:34px !important;
+}
+#colegio .sectionHead h2{
+  margin-bottom:0 !important;
+  max-width:1080px !important;
+}
+#colegio .sectionHead .lead{
+  display:none !important;
+}
+#colegio .introGrid{
+  margin-top:0 !important;
+}
+#colegio .identityPanel{
+  display:flex !important;
+  flex-direction:column !important;
+  justify-content:center !important;
+  gap:24px !important;
+  min-height:420px !important;
+}
+#colegio .identityPanel > p{
+  display:none !important;
+}
+#colegio .identityPanel h3{
+  margin-bottom:4px !important;
+  font-size:clamp(1.5rem,2.3vw,2.2rem) !important;
+}
+#colegio .identityValues{
+  margin-top:0 !important;
+}
+#colegio .sectionIndex{
+  white-space:nowrap;
+  letter-spacing:.12em !important;
+}
+@media(max-width:850px){
+  #colegio .sectionHead{
+    align-items:flex-start !important;
+    gap:14px !important;
+  }
+  #colegio .sectionIndex{
+    white-space:normal;
+  }
+  #colegio .identityPanel{
+    min-height:auto !important;
+    gap:18px !important;
+  }
+}
+
 </style>
 <meta name="hosting" content="GitHub public edition">
 </head>
@@ -1679,15 +1730,15 @@ window.addEventListener('load',()=>{if(!('speechSynthesis' in window)){document.
       <div>
         <div class="eyebrow">01 · Nuestra identidad</div>
         <h2>El colegio como puerta de entrada a Yungay.</h2>
-        <p class="lead">No queremos entregar a los colegios visitantes una página estática. Esta experiencia presenta nuestra institución como anfitriona y conecta cada visita con el territorio, la memoria y la identidad de Yungay.</p>
+        
       </div>
-      <div class="sectionIndex">SDG / DIGITAL EXPERIENCE / 2026</div>
+      <div class="sectionIndex">I.E. 86648 · YUNGAY · 2026</div>
     </div>
 
     <div class="introGrid">
       <article class="identityPanel reveal left">
         <h3>I.E. 86648 Santo Domingo de Guzmán</h3>
-        <p>Una presentación pensada para abrirse en el celular antes, durante o después de la visita. El objetivo es que cada estudiante conozca dónde está, qué está observando y por qué Yungay es un lugar que merece ser recordado y cuidado.</p>
+        
         <div class="identityValues">
           <div class="identityValue"><b>Identidad</b><span>Orgullo institucional y vínculo con nuestra provincia.</span></div>
           <div class="identityValue"><b>Memoria</b><span>Respeto por los lugares y acontecimientos que nos representan.</span></div>
